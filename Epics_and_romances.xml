@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epics and Romances of the Middle Ages: a digital edition</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>Taylor edition</date>
+            </edition>
+            <respStmt>
+               <resp> Edited by </resp>
+               <persName>1078975<lb/>
+               </persName>
+               
+            </respStmt>
+         </editionStmt>
+         <extent>21 pages.<note>partial</note></extent>
+         <publicationStmt>
+            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the
+               University of Oxford, </publisher>
+            <date>2024.</date>
+            <availability>
+               <licence xml:id="xml_files"
+                  target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
+                  available for download under a <ref
+                     target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                     Attribution-ShareAlike 4.0 International License</ref>
+                  <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence>
+               <licence xml:id="image_files"
+                  target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
+                  reproduced from the Bodleian Library under a <ref
+                     target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
+                     Commons Attribution-NonCommercial-ShareAlike 3.0 International
+                     License</ref> . </licence>
+            </availability>
+            
+            
+            <idno type="ORA">***put link to ORA data url here***</idno> <!-- Other ids can be given here, for example, a link to a mss description in a Special Collection catalogue -->
+         </publicationStmt>
+         <seriesStmt>
+            <title xml:id="tayeditions">Taylor Editions: </title>
+            <title xml:id="guest">Guest</title>
+         </seriesStmt>
+         <notesStmt>
+            <note type="images">[PNG]</note>
+            <!-- Put the format of the accompanying images (values: "JPEG" (.jpg), "PNG" (.png), "TIFF2" (.tiff), "TIFF" (.tif), or the URI of the manifest for IIIF.)-->
+            <note type="holding"><p>Transcribed from: <orgName>Bodleian Library</orgName>: (OC) 251 a.89, 279–299.  Images scanned
+               by Google Books from: Bodleian Library: (OC) 251 a.89, 499 images.</p></note>
+            <note type="intro">
+               <p>This is a facsimile and transcription of <title>Epics and Romances of the Middle Ages.</title>. </p>
+               <p>The transcription was encoded in TEI P5 XML by 1078975. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Oxford</settlement> 
+                  <repository>Bodleian Library</repository> 
+                  <idno>(OC) 251 a.89</idno> 
+               </msIdentifier>
+               <history>
+                  <origin><p><origPlace>London</origPlace> in <origDate when="1883"></origDate>
+                  </p></origin>
+               </history>
+            </msDesc>
+            <bibl type="citation"><title level="m">Epics and Romances of the Middle Ages. Adapted From the Work of Dr. W. Wägner By M. W. MacDowell, and Edited By W. S. W. Anson.</title>
+               <bibl>
+                  <date when="1883">1883</date></bibl>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by encoding transcription from Google Book scans of printed book. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>This digital edition is a transcription of the second chapter of the section 'The Nibelungs' Woe', 'The Burgundians Visit Hunland'. No formework or illustrations are encoded. This transcription is intended for integration with the PRISMS Open Scholarship platform to be used in a knowledge graph describing 19th-century English translations of the German epic poem the Nibelungenlied, and specifically their depictions of Kriemhild's revenge.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+            
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change resp="#1078975"><date>2024-05</date>Transcription completed.</change>
+         <change resp="#EH">
+            <date>2021-03</date>
+            <label>template created</label></change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng" xml:id="Epics_and_romances">
+      <front>
+         <gap extent="cover and front matter - 13 images" reason="editorial"/>
+      </front>
+      <body>
+         <gap extent="272 page images" reason="editorial"/>
+         <div type="chapter">
+            <pb n="279"/>
+            <head rend="allcaps center">II. The Burgundians Visit Hunland</head>
+            <div type="section">
+               <head rend="smallcaps center">The Journey.</head>
+               <p rend="h_2">One day when the king was playing with little Ortlieb, and
+                  <lb/>speaking to his mother, he said how much he wished that
+                  <lb/>the child should one day be a hero like Siegfried. She nearly
+                  <lb/>shrieked when she heard the name, but forcing herself to be quiet,
+                  <lb/>begged her husband to invite her brothers and their friends to
+                  <lb/>come on a visit to the land of the Huns. It was the first request
+                  <lb/>that she had ever made, and so King Etzel was overjoyed to hear
+                  <lb/>it. He despatched the minstrels Swemmeling and Worbeling,
+                  <lb/>with four and twenty noble warriors, to invite the Burgundian
+                  <lb/>kings to the Midsummer festival. And Chriemhild sent a special
+                  <lb/>message to her mother, begging her to come too. In spite of
+                  <lb/>Hagen's remonstrances, the three kings accepted Etzel's invitation.
+                  <lb/>Hagen prepared for the journey as though they were setting out.</p>
+               <p rend="h_2">“The Nibelungs are going to visit the Huns,” said the common
+                  <lb/>people, as they watched King Etzel's visitors crossing the Rhine;
+                  <lb/>for, ever since the treasure had come into the country, the kings
+               <pb n="280"/>
+                  
+                  <lb/>and their followers had been called Nibelungs, after the unknown
+                  <lb/>land.</p>
+               <p rend="h_2">The travellers rode for twelve days through the Black Forest
+                  <lb/>and many waste places, till they reached the Danube. At the
+                  <lb/>borders of Bavaria neither inn nor ferryman was to be found.
+                  <lb/>While the rest made preparations to encamp for the night, Hagen
+                  <lb/>went deeper into the inhospitable land and came to a spring that
+                  <lb/>ran into a small lake. There he saw some women bathing in
+                  <lb/>the clear water, and at once knew that they were swan-maidens.
+                  <lb/>Seeing him, they swam away, but he got possession of their feather
+                  <lb/>garments, which obliged them to speak to him.</p>
+               <p rend="h_2">“Give us back our garments,” said one of them, “and l will
+                  <lb/>tell you of the future.”</p>
+               <p rend="h_2">He promised to do as she desired, if she would tell him how
+                  <lb/>their journey should end. She then prophesied pleasant things
+                  <lb/>to him, and the hero gave back all the swan-garments. No sooner
+                  <lb/>had he done this, than another of the maidens informed him that
+                  <lb/>her sister had spoken words of guile, for that, far from the happy
+                  <lb/>ending she had foretold, the priests alone of all that numerous com
+               <lb break="no" rend="hyphenBefore"/>pany should ever see the Rhine again; as for the warriors, they
+                  <lb/>should all die by the sword, if they did not at once return home.
+                  <lb/>Hagen answered that he was ready to defend himself and his
+                  <lb/>kings, and then asked how to cross the river. The swan-maidens
+                  <lb/>directed him where he should find a ferryman, and then flew
+                  <lb/>away.</p>
+               <p rend="h_2">Hagen followed the advice given him1 and brought his company
+                  <lb/>down to the ferry. The boatman turned out to be an old enemy,
+                  <lb/>so after a hand-to-hand encounter. he was slain, and Hagen took his
+                  <lb/>place. When they were half way across the river, Hagen flung
+                  <lb/>the priest, who accompanied them, overboard, that at least one
+                  <lb/>portion of the swan-maiden's prophecy might come to nought.
+                  <lb/>But he had miscalculated in this instance; the priest's floating
+                  <pb n="281"/>
+                  
+                  <lb/>garments upheld him on the turbulent waters, and the current
+                  <lb/>drove him back to the shore.
+               </p>
+               <p rend="h_2">“The holy man has the devil's own luck,” said the grim warrior.
+                  <lb/>“I care not, however. What must be, will be, as the Norns used
+                  <lb/>to say.”</p>
+               <p rend="h_2">The travellers pursued their journey rather more rapidly than
+                  <lb/>before. At length, after meeting with several adventures, they
+                  <lb/>arrived at Margrave Rüdiger's castle, where they met with a hearty
+                  <lb/>reception from their old friend and his wife. During their visit
+                  <lb/>to Bechelaren, Giselher fell in love with fair Dietelinde, the only
+                  <lb/>daughter of the house, and wooed her through his brother. So,
+                  <lb/>according to old custom, the youth and the maiden were called
+                  <lb/>to appear before the whole company in the great hall of the castle,
+                  <lb/>and say whether they were willing to be man and wife. Giselher
+                  <lb/>did not hesitate for a moment. His “yes” was loud and clear.
+                  <lb/>But fair Dietelinde blushed, and looked down, and her whispered
+                  <lb/>“yes” was only obtained in response to a second demand. Then
+                  <lb/>Giselher clasped her in his arms, and gave her the kiss of betrothal.
+                  <lb/>The bond was therefore sealed for life.</p>
+               <p rend="h_2">The Burgundians, or Nibelungs as they were generally called,
+                  <lb/>remained at Bechelaren for many days, and when they went away,
+                  <lb/>their host pressed all manner of costly gifts upon them. Hagen
+                  <lb/>refused to receive anything in the way of ornament, and only
+                  <lb/>begged for a strong shield that hung on the wall amongst other
+                  <lb/>pieces of armour.</p>
+               <p rend="h_2">“It is Nudung's shield, and he, our only son, was slain by faith
+               <lb break="no" rend="hyphenBefore"/>less Wittich,” said the Margravine; “take it, noble hero, and may
+                  <lb/>it guard you well.”</p>
+               <p rend="h_2">The travellers continued their journey, and arrived at the land
+                  <lb/>of the Huns, on the borders of which they were met by Dietrich
+                  <lb/>and many other warriors. Accompanied by these, and by Rüdiger,
+                  <lb/>they at length arrived at Etzelburg. The queen came down to
+                  <pb n="282"/>
+                  
+                  <lb/>meet them in the castle court. She greeted the kings, and kissed
+                  <lb/>young Giselher, but scarcely seemed to see the warriors who ac
+               <lb break="no" rend="hyphenBefore"/>companied them. Hagen was angry, and said,—
+               </p>
+               <p rend="h_2">“When one comes as an invited guest, one is accustomed to
+                  <lb/>hear one's host at least say ‘Welcome.’ This praiseworthy custom
+                  <lb/>does not seem to obtain in the land of the Huns.”
+               </p>
+               <p rend="h_2">“Lord Hagen of Tronje,” said Chriemhild, “have you done
+                  <lb/>anything to gain such greeting? Have you, perchance, brought
+                  <lb/>me some of the stolen Nibelung treasure?”</p>
+               <p rend="h_2">“It lies deep sunk in the Rhine,” replied the warrior, “and
+                  <lb/>there it will remain till the end of time. But had I known that
+                  <lb/>you desired a gift, I am rich enough to have brought you one.”</p>
+               <p rend="h_2">“I can do without it,” said the queen, “I too am rich; I only
+                  <lb/>thought you might perhaps have desired to restore to me my own
+                  <lb/>again.”</p>
+               <p rend="h_2">“I find my shield, helmet, sharp sword, and coat of mail a heavy
+                  <lb/>enough weight to carry,” replied the hero, “but I promise to try
+                  <lb/>and bring you the devil. <hi rend="italic">He</hi> has much rich treasure.”</p>
+               <p rend="h_2">“I do not need your gifts,” cried the queen, “nor do I desire
+                  <lb/>them. You have served me ill enough in time past with your
+                  <lb/>murderous and thievish hand. I have not yet requited you for
+                  <lb/>what you have already done for me.”</p>
+               <p rend="h_2">She turned away in anger, and calling her men-at-arms around
+                  <lb/>her, promised to reward whoever avenged Siegfried's death.</p>
+               <p rend="h_2">The queen then asked her brothers to divest themselves of their
+                  <lb/>armour, as it was not customary to appear in the panoply of war
+                  <lb/>before King Etzel. Hagen at once advised them not to do so,
+                  <lb/>warning them of the consequences in plain terms.</p>
+               <p rend="h_2">Chriemhild exclaimed, that she would give much to know
+                  <lb/>whose advice he was following in this matter; then the Amelung
+                  <lb/>hero came fonvard, and boldly avowed that it was he who had
+                  <lb/>given this counsel, for he knew well the devilish plots that were
+                  <pb n="283"/>
+                  
+                  <lb/>being contrived in the palace. The queen only answered him
+                  <lb/>with an angry look, and at once retired to her apartments.</p>
+               <p rend="h_2">While the kings talked together in the friendliest fashion, the
+                  <lb/>Hunnish warriors looked askance at the Burgundians. Hagen,
+                  <lb/>desirous of showing that he felt no fear, asked one of his comrades
+                  <lb/>to go with him to the inner court to await the coming of the
+                  <lb/>queen. His familiar friend, Volker the minstrel, declared himself
+                  <lb/>ready. They seated themselves on a bench near the queen's
+                  <lb/>hall. As they sat there—Hagen with his good sword Balmung
+                  <lb/>laid across his knees—Chriemhild came down the steps, and
+                  <lb/>asked him why he had hated her so, and why he had slain the
+                  <lb/>noble Siegfried.</p>
+               <p rend="h_2">“Well,” he said, “I never denied that I did it The queen
+                  <lb/>of Burgundy was insulted for his sake, and the royal house
+                  <lb/>dishonoured. The shame had to be washed out with . blood, and
+                  <lb/>as the hero was too strong to attack in the open field, he had
+                  <lb/>to be slain by cunning. Any one may blame me, any one may
+                  <lb/>strive to avenge the deed, I am not afraid. I have no cap of
+                  <lb/>darkness, and am easily to be found.”</p>
+               <p rend="h_2">Then Chriemhild turned to her serving-men, and desired them
+                  <lb/>to slay the slanderer of their queen, and the treacherous murderer
+                  <lb/>of Siegfried. But the two brave men were so terrible to look
+                  <lb/>upon, that none of the Huns dared touch them, although the
+                  <lb/>queen offered them much gold. They then went their way, and
+                  <lb/>the queen returned to her apartments, blushing with shame.</p>
+               <p rend="h_2">A message now came from King Etzel begging the Burgundians
+                  <lb/>to visit him in his palace. They accepted the invitation, and he
+                  <lb/>greeted them like old friends. After having welcomed the heroes,
+                  <lb/>he said that he should very much like to know who the two
+                  <lb/>warriors were that looked so brave, and stood so close together.</p>
+               <p rend="h_2">“They are Volker the minstrel, and my uncle Hagen of
+                  <lb/>Tronje,” replied King Gunther.</p>
+               <pb n="284"/>
+               
+               <p rend="h_2">“What, Hagen!” cried Etzel. “So we have met again at last,
+                  <lb/>old friend, and I can tell you to your face that you have not belied
+                  <lb/>the promise of your youth. But you are much changed in your
+                  <lb/>looks from what you were in the old days when I was proud
+                  <lb/>of your brave deeds in my service, and set you free, to return to
+                  <lb/>Burgundy. You have lost an eye since then, your hair is mixed
+                  <lb/>with grey, and your face has grown so rugged that you might
+                  <lb/>alarm the boldest warrior when you swing your broadsword.”</p>
+               <p rend="h_2">“Who can tell,” replied the hero, “how soon I may have to do
+                  <lb/>it again?”</p>
+               <p rend="h_2">“Never in the land of the Huns,” answered the king; “you, like
+                  <lb/>all Burgundians, are a favoured guest.”</p>
+               <p rend="h_2">The evening passed quietly, and it was nearly midnight before
+                  <lb/>the Burgundians were led to the great hall, where couches were
+                  <lb/>spread for them with down cushions covered with gold embroidery.
+                  <lb/>They agreed with Hagen that it would be well to keep watch
+                  <lb/>during the night for fear of surprise, and that each man should
+                  <lb/>place his weapons where he could get them at a moment's notice.</p>
+               <p rend="h_2">Hagen and Volker kept guard. They had been seated for some
+                  <lb/>time in silence, when all at once the minstrel saw helmets and
+                  <lb/>shields glancing in the starlight. He pointed them out to his
+                  <lb/>companion, who knew that they were the queen's men, and needed
+                  <lb/>no telling to inform him on what errand they were come. The
+                  <lb/>minstrel wanted to spring out upon them, but Hagen prevented
+                  <lb/>him, because some of the enemy might then have slipped into
+                  <lb/>the hall, and perhaps murdered their sleeping friends. So peace
+                  <lb/>was preserved for the time; and at dawn, the Burgundians
+                  <lb/>marched to the sanctuary to keep the solemn Midsummer festival.
+                  <lb/>King Etzel appeared with his train, and asked, in astonishment,
+                  <lb/>why they wore their armour. But they answered that such was
+                  <lb/>their custom, not thinking it well to tell him what hid happened
+                  <lb/>during the night</p>
+               <pb n="285"/>
+               
+               <p rend="h_2">After the service was over, a great repast was served, which was
+                  <lb/>in turn succeeded by games, dances, music, and other entertain
+               <lb break="no" rend="hyphenBefore"/>ments. In all feats of arms and trials of skill in the lists, the
+                  <lb/>Nibelungs showed themselves better men than the Huns. At
+                  <lb/>length the games appeared to be over, and the warriors desired
+                  <lb/>to rest after their exertions. As they were leaving the scene of
+                  <lb/>contest, a prince of the Huns presented himself in shining armour,
+                  <lb/>and offered to try his skill against the strangers, who, he alleged,
+                  <lb/>had hitherto only measured their strength with the common
+                  <lb/>people, and not with the princes. Bold Volker caught his spear
+                  <lb/>more firmly in his hand, and turned to accept the challenge. His
+                  <lb/>thrust was so shrewd that he wounded the Hun severely, and
+                  <lb/>a cry of “Murder, down with the murderer!” arose on every
+                  <lb/>side. A free fight would have begun in another minute, had not
+                  <lb/>King Etzel thrown himself between the belligerents, and threat
+               <lb break="no" rend="hyphenBefore"/>ened death to any of his people who hurt one of his guests.
+                  <lb/>Peace was then outwardly restored; but the sullen glances each
+                  <lb/>side cast on the other, showed the angry turmoil in every heart.</p>
+               <p rend="h_2">That evening, Etzel sent for his little son into the hall, that he
+                  <lb/>might present him to his guests. The warriors all admired the
+                  <lb/>handsome, frank-mannered child, and told the father that they
+                  <lb/>did so but Hagen said he did not think the boy would live to
+                  <lb/>grow up, he looked so delicate.</p>
+               <p rend="h_2">This speech of Hagen's increased the bad feeling of the Huns
+                  <lb/>towards the Burgundians tenfold; but no one betrayed his
+                  <lb/>thoughts. A little later, a great noise was heard in the court
+                  <lb/>without-shouts, the clang of armour, howls and cries.</p>
+            </div>
+            <div type="section">
+               <head rend="smallcaps center">The First Blood. Blödelin and Dankwart</head>
+               <p rend="h_2">Before the warriors went to the feast that evening, Queen
+                  <lb/>Chriemhild had spoken privately to the hero of Bern. She
+                  <lb/>promised him Etzel's help in regaining his kingdom, if he would
+               <pb n="286"/>
+               
+                  <lb/>do her one service-if he would avenge Siegfried's death. But
+                  <lb/>he told her that he could not, for the Burgundian warriors were
+                  <lb/>old friends and comrades of his; besides, he reminded her, that
+                  <lb/>they had come to Etzelburg in all good faith and loyalty.
+                  <lb/>A few minutes after Dietrich had left her sad and hopeless,
+                  <lb/>Blödelin, Etzel's brother, came in, and told the queen of what had
+                  <lb/>happened that afternoon in the tilting ground. Seeing how hot
+                  <lb/>his anger was, Chriemhild thought she might perhaps succeed
+                  <lb/>in gaining him over to her cause. She therefore told him of the
+                  <lb/>unavenged death of Siegfried, and promised him a rich treasure
+                  <lb/>of silver and gold if he would do her will. But he refused, from
+                  <lb/>fear of Etzel's anger. Upon which, the wise woman offered him
+                  <lb/>a margravate in addition, with lands and towers, and the hand
+                  <lb/>of a beautiful maiden of her court, whom he had long wooed, and
+                  <lb/>wooed in vain. These promises gained him to her will. He told
+                  <lb/>her that he would cause a quarrel to spring up between the men
+                  <lb/>on either side, and if Hagen came to try and settle matters,
+                  <lb/>he would have him overpowered, and carried to the queen in
+                  <lb/>bonds.
+               </p>
+               <p rend="h_2">Chriemhild then retired to her chamber, which was pervaded by
+                  <lb/>a soft light, the curtains of Indian silk keeping off the rays of the
+                  <lb/>sun. As she sat there thinking, the words that her mother had
+                  <lb/>once spoken rushed into her memory. “Women often strike
+                  <lb/>deeper wounds and shed more blood with their tongues than men
+                  <lb/>with their swords.” She would have started up, and recalled
+                  <lb/>Blödelin; but at the same moment she saw, as distinctly as if
+                  <lb/>it had really been there, Siegfried's bier with the dead warrior
+                  <lb/>stretched upon it. She saw him raise himself, and stretch out his
+                  <lb/>arms to her; but when she started forward to meet him, there was
+                  <lb/>nothing but empty air. She determined now to go on to the bitter
+                  <lb/>end. Whether her vengeance brought about the death of her
+                  <lb/>little son, and of King Etzel; whether it brought about the de­
+                  <pb n="287"/>
+                  
+                  <lb/>struction of the kingdom, she did not care. She could die, and
+                  <lb/>die willingly, if only she had the murderer's life.
+               </p>
+               <p rend="h_2">Meantime, Blödelin was making his preparations. His men
+                  <lb/>were rejoiced to hear the news he brought them, and followed
+                  <lb/>him joyously to the hall, where Dankwart the Marshal, Hagen's
+                  <lb/>brother, had charge over the serving-men. The hero rose from
+                  <lb/>his seat to greet the prince, who exclaimed:</p>
+               <p rend="h_2">“Prepare to die. The queen demands a bloody atonement for
+                  <lb/>the death of the great Siegfried.”</p>
+               <p rend="h_2">But why should I have to expiate a murder of which I knew
+                  <lb/>nothing?”</p>
+               <p rend="h_2">“That cannot be helped,” said the Hun; “my men's swords
+                  <lb/>cannot return unstained to their sheaths.”</p>
+               <p rend="h_2">“Then I am sorry that I gave you words of peace. I shall
+                  <lb/>now give you your answer with cold steel.”</p>
+               <p rend="h_2">With that he drew his sword, and swung it so lustily at the
+                  <lb/>warrior's neck that his head fell to the ground at one blow.</p>
+               <p rend="h_2">Wild shrieks and shouts of vengeance arose, and all prepared
+                  <lb/>to take part in the fight that had become inevitable. Dankwart
+                  <lb/>made his way fighting to the hall, his armour bespattered with
+                  <lb/>blood; but the defenceless serving-men were slain to a man.</p>
+               <p rend="h_2">“Up, brother Hagen!” he cried, “save me from the faithless
+                  <lb/>Huns. Lord Blodelin attacked both me and the servants, in order
+                  <lb/>to avenge Siegfried's death. I slew him, but the servants are all
+                  <lb/>dead, and I alone am escaped out of the traitorous toils that the
+                  <lb/>Huns have laid for us.”</p>
+            </div>
+            <div type="section">
+               <head rend="smallcaps center">The Slaughter.</head>
+               <p rend="h_2">The fight recommenced in the banqueting hall, m spite of all
+                  <lb/>King Gunther's efforts to smooth matters over, and during the
+                  <lb/>struggle the little Prince Ortlieb, the sole hope of Etzel's house,
+               <pb n="288"/>
+               
+                  <lb/>was killed. At length Hagen, Dankwart, and Volker, succeeded
+                  <lb/>in locking and bolting the doors of the hall.</p>
+               <p rend="h_2">Etzel and the queen sat full of anxious care during the <hi rend="italic">mêlée</hi>.
+                  <lb/>Dietrich and Rüdiger, neither of whom took part in the fight, were
+                  <lb/>also grave and sad. At length the hero of Bern exclaimed:</p>
+               <p rend="h_2">“Listen to me, Nibelungs. Hearken to my words, ye friends
+                  <lb/>of Burgundy. Grant me a truce that I and my men and Margrave
+                  <lb/>Rüdiger may go away unharmed.”</p>
+               <p rend="h_2">King Gunther recognised Dietrich's voice, and said: “If any
+                  <lb/>of my warriors has done harm to you or yours, noble hero of Bern,
+                  <lb/>I shall take your cause into my own hands.”</p>
+               <p rend="h_2">“No one has done me harm,” replied the warrior; “all that I
+                  <lb/>request is that you should let us go freely.”</p>
+               <p rend="h_2">“What is the good of so much requesting?” cried hot-headed
+                  <lb/>Wolfhart; “we have sharp keys to unlock the doors with, even if a
+                  <lb/>thousand such as these Nibelungs tried to keep them shut.”</p>
+               <p rend="h_2">“Hush l hush ! foolish comrade,” said Dietrich; “there was but
+                  <lb/>little sense in that speech of yours.”</p>
+               <p rend="h_2">King Gunther then commanded his people to open the door,
+                  <lb/>and much to the wrath of the Burgundians, Dietrich passed
+                  <lb/>through their ranks with Chriemhild leaning on one arm and King
+                  <lb/>Etzel on the other, and followed by his six hundred warriors.
+                  <lb/>After them came Rüdiger with four hundred men. Giselher said
+                  <lb/>to the Margrave:</p>
+               <p rend="h_2">“Greet your daughter from me, and say to her that I shall
+                  <lb/>think of her even in death.”</p>
+               <p rend="h_2">Many of the Huns tried to escape with King Etzel, but Volker
+                  <lb/>cut them down as they strove to pass the door.</p>
+               <p rend="h_2">No sooner were Dietrich and Rildiger safely gone than the hor
+               <lb break="no" rend="hyphenBefore"/>rible carnage recommenced. The Burgundian swords had no rest,
+                  <lb/>until all the Huns were lying dead or dying on the floor. After
+                  <lb/>that the Nibelungs rested awhile from their labours, but Hagen
+               <pb n="289"/>
+               
+                  <lb/>speedily called them to be up and doing, and fling the corpses out,
+                  <lb/>lest they should be in the way in any renewed attack He was at
+                  <lb/>once obeyed. The dead and wounded Huns were one and all
+                  <lb/>flung into the court below.
+               </p>
+               <p rend="h_2">Volker and Hagen now guarded the entrance, lest the enemy
+                  <lb/>should unexpectedly break in.</p>
+               <p rend="h_2">While Etzel wrung his hands, and moaned over the slaughter
+                  <lb/>of so many good men and true, Chriemhild offered a shield full of
+                  <lb/>gold and jewels to whoever slew her deadly foe, Hagen of Tronje.
+                  <lb/>Of all who heard her, one alone came forward and said that he
+                  <lb/>would try and do her will. And he was Count Iring of Daneland,
+                  <lb/>Haward's man.</p>
+               <p rend="h_2">He went forward boldly and performed prodigies of valour, but
+                  <lb/>at length was beaten back, and fell dead under Chriemhqd's
+                  <lb/>window.</p>
+               <p rend="h_2">Haward and Irnfried of Düiringen (Thuringia) determined to
+                  <lb/>avenge bold Iring, so they called out their men and went to the
+                  <lb/>attack. The fight began at the door, where Irnfried fell under the
+                  <lb/>minstrel's sword, and immediately afterwards Haward was slain
+                  <lb/>by the hero of Tronje. But still the men of Daneland and
+                  <lb/>Dilringen fought on unheeding, and Hagen exclaimed,—</p>
+               <p rend="h_2">“Give place. Let them go through the door, out of which they
+                  <lb/>shall never come back alive. Volker shall play them a slumbersong
+                  <lb/>to which our swords can beat. the accompaniment.”</p>
+               <p rend="h_2">So the Nibelungs opened their ranks, and the men of Daneland
+                  <lb/>and Düringen entered the blood-stained hall. Once more the
+                  <lb/>battle began. Many a brave Burgundian fell to rise no more; but
+                  <lb/>not one of their enemies escaped alive.</p>
+            </div>
+            <div type="section">
+               <head rend="smallcaps center">The Parley and the Fire.</head>
+               <p rend="h_2">Silence fell on the palace. The Nibelung warriors laid down
+                  <lb/>their shields and heavy armour, that they might the better rest
+               <pb n="290"/>
+               
+                  <lb/>from their labours, while Hagen and Volker kept watch by the
+                  <lb/>door. During this time of quiet, the Burgundians tried to make
+                  <lb/>peace. They reminded King Etzel that they had come to his
+                  <lb/>land at his own invitation, and relying on his good faith, only to
+                  <lb/>meet with treachery from him and his. But Etzel demanded that
+                  <lb/>the Burgundians should acknowledge him their feudal superior.
+                  <lb/>Then Giselher turned to his sister and asked what harm he had
+                  <lb/>ever done her that she should behave in such a way. And even
+                  <lb/>the women, who were weeping for their husbands and sons, bore
+                  <lb/>him witness that all his life had been spent in doing good to
+                  <lb/>others. Chriemhild was touched by his appeal, and told him that
+                  <lb/>he, Gunther, and Gernot should go free with all their warriors and
+                  <lb/>men-at-arms if only they would give up the murderer Hagen, that
+                  <lb/>she might punish him as he deserved. But with one voice the
+                  <lb/>Nibelungs refused terms which were dishonourable in their eyes.</p>
+               <p rend="h_2">Enraged at the boldness of her foes, the queen called upon the
+                  <lb/>Huns to make one more assault, and drive them out of the house.
+                  <lb/>Again the bitter strife began. Chriemhild knew no more compas
+               <lb break="no" rend="hyphenBefore"/>sion. She commanded her servants to set fire to the upper part
+                  <lb/>of the house, which was built of wood, and soon the flames were
+                  <lb/>seen spreading over the whole roof, which at length fell with a
+                  <lb/>crash. A wild wail of human creatures in their last agony accom
+               <lb break="no" rend="hyphenBefore"/>panied the fall. After that the queen retired to her own apart
+               <lb break="no" rend="hyphenBefore"/>ments, and standing at the window overlooking the house where
+                  <lb/>her brothers and their friends must have been burnt, thought sadly
+                  <lb/>and half remorsefully over the past. Only half remorsefully, for
+                  <lb/>she felt her heart as full of hatred to Hagen as it ever had been.</p>
+               <p rend="h_2">Meanwhile the Nibelungs had not perished in the flames, as
+                  <lb/>Chriemhild fondly imagined. The great vaulted hall in which
+                  <lb/>they had entrenched themselves was too strongly built to have
+                  <lb/>suffered much from the fire in the wooden upper storey; though
+                  <lb/>the Burgundians were for a long time as if shut up in an oven, the
+               <pb n="291"/>
+               
+                  <lb/>heat was so terrific; they yet escaped with their lives; and Hagen
+                  <lb/>made them slake their intolerable thirst by drinking the blood of
+                  <lb/>their fallen enemies.</p>
+               <p rend="h_2">When the Huns at length came to look for their charred
+                  <lb/>bodies, they were not a little surprised to find themselves con
+               <lb break="no" rend="hyphenBefore"/>fronted by six hundred brave and utterly undaunted warriors.</p>
+            </div>
+            <div type="section">
+               <head rend="smallcaps center">Slaughter Again.—The Lord of Bechelaren.</head>
+               <p rend="h_2">The queen heard with astonishment that the Nibelungs were
+                  <lb/>still alive and armed for a new fight. While she pondered
+                  <lb/>what it were best to do, one of the Hunnish notables told her
+                  <lb/>that she should apply for help, either to the Margrave of
+                  <lb/>Rechelaren, who had received so many benefits from the king,
+                  <lb/>or to Dietrich of Bern, who had enjoyed Etzel's hospitality so
+                  <lb/>long as a fugitive. Chriemhild thought the advice good, and
+                  <lb/>at once sent off a message to Rüdiger.</p>
+               <p rend="h_2">The noble Margrave immediately obeyed the queen's summons.
+                  <lb/>Etzel explained to him the true position of affairs, and rem
+               <lb break="no" rend="hyphenBefore"/>inding him of all the honours that had been heaped upon him,
+                  <lb/>told him the time was come to prove his gratitude. He must
+                  <lb/>punish the Nibelungs for the great scath they had wrought
+                  <lb/>to the royal house and to the land of the Huns.</p>
+               <p rend="h_2">“My liege,” said the good old hero sadly, “all that you have
+                  <lb/>said is true, and I am ready to do you any service, however
+                  <lb/>dangerous, but do not ask that I should break the faith I swore
+                  <lb/>to them when they stayed with me at Bechelaren, before I led
+                  <lb/>them to Etzelburg at your command. They trusted me utterly,
+                  <lb/>and young Giselher chose my daughter to be his wife, and to
+                  <lb/>share the Burgundian throne. Methinks it were an ill deed
+                  <lb/>to raise my hand against them that trusted me.”</p>
+               <p rend="h_2">When the king reminded him of his oath of allegiance, he
+                  <lb/>continued,—</p>
+               <pb n="292"/>
+               
+               <p rend="h_2">“Take back my castles and towns, the wealth that you have
+                  <lb/>given me, and the possessions I have won for myself. I will
+                  <lb/>go penniless into the wide world with my wife and child, and
+                  <lb/>what is my best wealth, Honour and Truth.”</p>
+               <p rend="h_2">“Nay, noble Margrave, but you cannot do so,” replied the
+                  <lb/>queen, “if you fail in obedience. Think of the time when you
+                  <lb/>came to Burgundy to woo me for Etzel. I feared to go alone
+                  <lb/>amongst the barbarous Huns, where I had not a friend or helper,
+                  <lb/>and you swore to me with a solemn oath that you would help
+                  <lb/>me against every adversary, except your liege lord. Your
+                  <lb/>sworn faith to me is older than that which you promised to
+                  <lb/>the Nibelungs. If you break your oath to me, you are dis
+               <lb break="no" rend="hyphenBefore"/>honoured.”</p>
+               <p rend="h_2">Rüdiger stood in silent thought before the queen. At length
+                  <lb/>he said,—</p>
+               <p rend="h_2">“Take my head. I shall not even tremble when the exe
+               <lb break="no" rend="hyphenBefore"/>cutioner's sword touches me. But do not force me to do what
+                  <lb/>my conscience disallows.”</p>
+               <p rend="h_2">The conversation lasted a good while longer. At length
+                  <lb/>Rüdiger with a heavy heart consented to obey the king and
+                  <lb/>queen.</p>
+               <p rend="h_2">The Nibelungs stood by the window looking out for help.
+                  <lb/>On seeing the noble Margrave approach with his men, Giselher
+                  <lb/>exclaimed joyfully that all was not lost, that they should see
+                  <lb/>Bechelaren and the Rhine again. When Rüdiger came close to
+                  <lb/>the door he explained his errand. Gunther reminded him of
+                  <lb/>the friendship they had sworn, and Rüdiger answered sadly
+                  <lb/>that the oath he had sworn to Etzel's wife forced him now to
+                  <lb/>fight her battle. And so they took fair leave of each other, as
+                  <lb/>noble friends forced to fight against their will. Once more the
+                  <lb/>blood of the Nibelungs and their opponents stained the great
+                  <lb/>ball. The heat of battle raged anew in every heart, and many
+               <pb n="293"/>
+               
+                  <lb/>men were slain. Amongst the number were Rüdiger and Gernot.
+                  <lb/>At length the men of Bechelaren were conquered, and slain
+                  <lb/>to the very· last man. Two hundred Nibelungs also fell before
+                  <lb/>this victory was gained.
+               </p>
+               <p rend="h_2">The heroes were silent in the wide hall. They heard the
+                  <lb/>sound of voices in the court without. The queen's voice was
+                  <lb/>raised in indignation, as she accused the Margrave Rüdiger of
+                  <lb/>playing the false traitor and making peace with the Nibelungs.
+                  <lb/>Volker's anger was roused at this unjust suspicion. Leaning
+                  <lb/>out of the window, he told her not to vex herself on that score
+                  <lb/>nor accuse a good man falsely, for the hero of Bechelaren had
+                  <lb/>died serving her. He then commanded the Margrave's body
+                  <lb/>to be shown at the window, so that the king and queen and
+                  <lb/>all the Huns should see it Etzel uttered a loud cry of horror,
+                  <lb/>and cursed the hand that had done the deed. He called for
+                  <lb/>his sword, that he might himself lead the band of avengers,
+                  <lb/>but he forebore to unsheath it when he saw that terrible pair
+                  <lb/>(Hagen and Volker) still guarding the threshold.</p>
+               <p rend="h_2">Chriemhild stood looking on with folded arms. She was
+                  <lb/>beautiful as ever, but it was now the beauty of a fallen angel.
+                  <lb/>She shed a few tears for the loss of her old friend Rüdiger.
+                  <lb/>Perhaps also because she feared that he was her last ally.
+                  <lb/>She may likewise have pondered whether by any means she
+                  <lb/>might yet attain her end. But be that as it may, the next
+                  <lb/>events were unexpected by her as by every one else.</p>
+            </div>
+            <div type="section">
+               <head rend="smallcaps center">Dietrich and his Amelungs.</head>
+               <p rend="h_2">One of Dietrich's men heard what had happened. He
+                  <lb/>hastened to his master and told him the strange tale. Dietrich
+                  <lb/>refused to believe it, and sent Helfrich to the palace to find
+                  <lb/>out the truth. On hearing the news of Rüdiger's death con­
+               <pb n="294"/>
+               
+                  <lb/>firmed, the hero of Bern sent his old master Hildebrand to ask
+                  <lb/>the Nibelungs why they had done this evil deed.</p>
+               <p rend="h_2">The master would have gone unarmed upon this errand, but
+                  <lb/>Wolfhart cried out upon the folly of appearing as a lamb in the
+                  <lb/>presence of wolves. The master thought the advice good, and
+                  <lb/>put his armour on. When he was on the way, he saw that all
+                  <lb/>Dietrich's men were following him well-armed, under Wolfhart's
+                  <lb/>guidance. He desired his quick-tempered nephew to go back,
+                  <lb/>but the latter refused point-blank, saying that he could not
+                  <lb/>let his uncle go alone; and the other warriors, one and all, de
+               <lb break="no" rend="hyphenBefore"/>clined to leave him. When the small band of five hundred brave
+                  <lb/>men came in front of the house the Nibelungs were defending,
+                  <lb/>Master Hildebrand lowered his shield, and asked if it were true
+                  <lb/>that good Margrave Rüdiger was dead. Hagen answered that
+                  <lb/>they wished it were untrue, but it could not be helped, for he
+                  <lb/>had been slain in unavoidable fight. The Amelungs mourned
+                  <lb/>aloud for their friend. Wolfhart would have avenged him on the
+                  <lb/>spot, but the master held him back, threatening him with
+                  <lb/>Dietrich's anger if he thrust himself into the quarrel. Then,
+                  <lb/>turning to the Nibelungs, he demanded in the name of the hero
+                  <lb/>of Bern that the Margrave's' body should be handed over to
+                  <lb/>them, that they might give him honourable burial. King
+                  <lb/>Gunther replied that it was a good and worthy desire on their
+                  <lb/>part, and one that ought to be gratified. Wolfhart called to them
+                  <lb/>to make haste and bring out the body, upon which Volker
+                  <lb/>said that they were too tired to do more work, so the Amelungs
+                  <lb/>might come in and fetch it.</p>
+               <p rend="h_2">One word led to another, till Wolfhart lost his temper al
+               <lb break="no" rend="hyphenBefore"/>together, and rushed forward, followed by the Amelungs, shout
+               <lb break="no" rend="hyphenBefore"/>ing as with one voice their ancient war-cry. Master Hilde
+               <lb break="no" rend="hyphenBefore"/>brand, drawn on in the general rush, was found in a foremost
+                  <lb/>place when the battle began. The tired Nibelungs, and the brave
+               <pb n="295"/>
+               
+                  <lb/>Amelungs—men who had formerly fought side by side m the
+                  <lb/>great battle of Ravenna, and on many other fields—were now
+                  <lb/>engaged in hand-to-hand conflict for life and death. Here was
+                  <lb/>strong Sigestap, duke of Bern, there brave Helfrich, there the
+                  <lb/>bold heroes Wolfwin, Wolfbrand, Helmnot, Ritschart, and others,
+                  <lb/>all burning to avenge the death of Rüdiger. The confusion was
+                  <lb/>so great that often those who wished to meet could not find
+                  <lb/>each other. Thus Volker and Wolfhart were kept apart; the
+                  <lb/>minstrel fell upon Sigestap, who had slain many of the Bur
+               <lb break="no" rend="hyphenBefore"/>gundians, and gave him his death-blow, only to meet Hildebrand
+                  <lb/>a little later and himself to fall under his hand. Dankwart
+                  <lb/>was slain by Helfrich; Wolfhart did many a deed of valour,
+                  <lb/>until Giselher attacked him. After a tremendous struggle, the
+                  <lb/>young king thrust him through the breast, but even then,
+                  <lb/>though in mortal agony, he grasped his sword in both hands,
+                  <lb/>and slew his adversary.</p>
+               <p rend="h_2">Old Hildebrand saw his nephew fall, and hastened to him. He
+                  <lb/>lifted him in his arms, and tried to bear him from that hall of
+                  <lb/>doom; but he was too heavy. The wounded hero opened his
+                  <lb/>eyes once more, and said in a faint voice,—</p>
+               <p rend="h_2">“Uncle, tell our friends not to weep for me, for I have met my
+                  <lb/>death at the hands of a brave king, as he has at mine. My
+                  <lb/>wild blood has grown_ calm and still, and I am ready to sleep
+                  <lb/>peacefully like a tired child.”</p>
+               <p rend="h_2">These were the last words of the wildest, hottest warrior in
+                  <lb/>Dietrich's train. Like Wolfhart, all the other comrades of the
+                  <lb/>hero of Bern, save Hildebrand alone, lay stretched on the bloody
+                  <lb/>floor; and with them all the Burgundians, except Hagen and
+                  <lb/>King Gunther.</p>
+               <p rend="h_2">“Come now, Master Hildebrand,” cried a rough voice, “you
+                  <lb/>owe me satisfaction for the death of my comrade Volker.”</p>
+               <p rend="h_2">It was Hagen that spoke. The meaſdtelsmer defend his
+               <pb n="296"/>
+                  <lb/>bravely, but the hero of Tronje was strong and determined, and
+                  <lb/>Balmung was sharp. One terrible blow cut through Hildebrand's
+                  <lb/>coat of mail, and the blood flowed freely from his side.</p>
+            </div>
+            <div>
+               <head rend="smallcaps center">The End of the Nibelungs.</head>
+               <p rend="h_2">When the old man felt the wound, and looked in the grim,
+                  <lb/>rugged countenance of his antagonist, for the first time in all his
+                  <lb/>long life fear took possession of him, and covering his back with
+                  <lb/>his shield, he fled like a coward.</p>
+               <p rend="h_2">With shattered armour, and red with his own blood, and that
+                  <lb/>of others, the old man came before his master. Dietrich asked
+                  <lb/>whether he had fought with the Nibelungs, and why he was so
+                  <lb/>wet with blood. Then Hildebrand told how the Burgundians had
+                  <lb/>slain the good Rüdiger, and had declined to give up his body
+                  <lb/>for burial.</p>
+               <p rend="h_2">The hero of Bern was so saddened by these tidings, that he
+                  <lb/>asked no further questions; he begged the old man to command
+                  <lb/>his comrades to arm themselves at once.</p>
+               <p rend="h_2">“Whom shall I command?” asked the master.</p>
+               <p rend="h_2">“The swordsmen of Bern are all here. You, my lord, and I.
+                  <lb/>are all that remain of them; and of the Nibelungs, Hagen and
+                  <lb/>King Gunther are the only ones alive.”</p>
+               <p rend="h_2">At first Dietrich did not understand, and when he did, he
+                  <lb/>mourned aloud for his friends and comrades.</p>
+               <p rend="h_2">“How could my brave men have fallen under the swords of
+                  <lb/>these tired warriors? Who will now help me to regain the land
+                  <lb/>of the Amelungs?”</p>
+               <p rend="h_2">So he cried in his sore distress. But soon, mastering his
+                  <lb/>emotion, the hero prepared to avenge his fallen friends, and,
+                  <lb/>accompanied by the master, went full-armed to the house where
+                  <lb/>Hagen and Gunther awaited their fate with undaunted courage.</p>
+               <p rend="h_2">Hagen and Hildebrand exchanged so many scornful words
+               <pb n="297"/>
+               
+                  <lb/>when they met, that Dietrich chid them for a couple of old
+                  <lb/>women, and demanded that the combat should at once begin.
+                  <lb/>Hagen sprang forward without delay. Balmung was as sharp as
+                  <lb/>ever it had been, and the hero of Bern had much trouble to defend
+                  <lb/>himself; but the hand that wielded the sword was weary, and
+                  <lb/>less nimble than of yore. Dietrich, seeing this, made a sudden
+                  <lb/>spring upon Hagen, threw him down, and bound him fast. Then
+                  <lb/>he bore his prisoner into the presence of Chriemhild, and re
+               <lb break="no" rend="hyphenBefore"/>commended him to her mercy, saying that he was the boldest
+                  <lb/>and bravest warrior in the whole world. He only noticed the
+                  <lb/>thanks and praise she gave him for his doughty deed, and did not
+                  <lb/>mark the gleam in her eyes, nor rightly interpret the flush that
+                  <lb/>rose to her cheeks. He hastened away to the last battle with
+                  <lb/>King Gunther.</p>
+               <p rend="h_2">Chriemhild had gained her end: that end to which she had
+                  <lb/>waded through rivers of noble blood. Hagen read his fate in
+                  <lb/>her eyes; but he never flinched: he would not give her that dear
+                  <lb/>satisfaction. She wondered whether she could make him confess
+                  <lb/>where he had hidden the Nibelung treasure. She spoke to him
+                  <lb/>kindly, and promised to let him go safely home, if he would only
+                  <lb/>tell her the hiding-place. The hero seemed touched by her
+                  <lb/>gentleness, and said that he would willingly tell her, but that he
+                  <lb/>had sworn to keep the secret as long as one of the three kings
+                  <lb/>of Burgundy was alive.</p>
+               <p rend="h_2">She promised him again that she would keep her word, if he
+                  <lb/>did her will; and then had him taken away to sure watch and
+                  <lb/>ward.</p>
+               <p rend="h_2">“Lies, lies, all lies,” he said to himself, as his gaolers led him
+                  <lb/>away.</p>
+               <p rend="h_2">The hero of Bern soon afterwards appeared with King Gunther
+                  <lb/>as a prisoner; the latter was at once taken to a separate dungeon
+                  <lb/>Chriemhild considered what was now to be done. Siegfried's
+               <pb n="298"/>
+               
+                  <lb/>murderers were now in her hands, both the man who had done
+                  <lb/>the deed, and the king who had condoned it.</p>
+               <p rend="h_2">She felt a few qualms of conscience when she thought that
+                  <lb/>Gunther was, after all, her brother; but she soon stifled them,
+                  <lb/>and calmly pursued the path she had marked out for herself.
+                  <lb/>King Gunther's head was cut off by her orders, and laid at
+                  <lb/>Hagen's feet to convince him that now the last king of Burgundy
+                  <lb/>was dead.</p>
+               <p rend="h_2">The hero thrust away the head contemptuously. “It was not
+                  <lb/>thou,” he said, “to whom I swore allegiance, and whose crown I
+                  <lb/>strove to keep free from stain. The royal house of Burgundy, to
+                  <lb/>which I belonged, is wasted, and its glory overthrown. Of what
+                  <lb/>worth to me is the span of life that remains?”</p>
+               <p rend="h_2">That night Chriemhild had a happy dream. She thought that
+                  <lb/>Siegfried stood before her as she had seen him first; that he
+                  <lb/>stretched out his arms to her in love and gratitude, and then
+                  <lb/>vanished slowly in the grey dawn.</p>
+               <p rend="h_2">Next morning Chriemhild seated herself beside King Etzel in
+                  <lb/>all her robes of state. The hero of Tronje was brought before
+                  <lb/>her, a prisoner, and in bonds. She questioned him again as to
+                  <lb/>the hiding-place of the treasure. Raising his head, he answered
+                  <lb/>with all his former boldness:</p>
+               <p rend="h_2">“You are mistaken, woman, if you think that you have my
+                  <lb/>mind in your power, that you have tamed me entirely. The
+                  <lb/>kings are all dead now, Gunther, Gernot, Giselher; now none but
+                  <lb/>God and I know where the treasure was sunk in the deep waters
+                  <lb/>of the Rhine, and from me you shall never learn where you may
+                  <lb/>seek with any hope of finding.”</p>
+               <p rend="h_2">Chriemhild silently came down from the throne, and picked up
+                  <lb/>the good sword Balmung that lay beside Hagen's armour.</p>
+               <p rend="h_2">“You took good care of the gold you stole from me,” she said,
+                  <lb/>“but another thing that you stole I have in my hands at this
+               <pb n="299"/>
+               
+                  <lb/>moment. My noble husband Siegfried wore this sword when
+                  <lb/>last I saw him, before he fell under your murderous hand. I will
+                  <lb/>now try whether it be strong enough to avenge its master.”</p>
+               <p rend="h_2">She had drawn the sword from its sheath, and now swung
+                  <lb/>it with both hands, and with such force that the head was cut
+                  <lb/>from the body, and fell at the feet of old Hildebrand.</p>
+               <p rend="h_2">A cry of horror echoed through the hall, then all was still.
+                  <lb/>Chriemhild thrust the bloody weapon back into its sheath, and
+                  <lb/>said,—</p>
+               <p rend="h_2">“This blood may never be washed from the blade. Balmung
+                  <lb/>must be taken to Worms as it is, and laid in Siegfried's grave.
+                  <lb/>Perhaps he may then learn that his wife loved him faithfully,
+                  <lb/>and punished his murderer. Two things alone made up my
+                  <lb/>life: Love and Revenge. My work is done.”</p>
+               <p rend="h_2">“Strange,” said Hildebrand, staring at the hero's dissevered
+                  <lb/>head, “that the bravest warrior in all the world should have
+                  <lb/>been slain by a woman! But although he wronged me much
+                  <lb/>of late, I will yet avenge him.”</p>
+               <p rend="h_2">So saying, the old master drew his sword, and gave the
+                  <lb/>queen her death-blow. Etzel shrieked out, and threw himself
+                  <lb/>on his knees beside his wife. She was deadly pale, and had
+                  <lb/>only strength to gasp rather than speak,—</p>
+               <p rend="h_2">“Let none touch the old master for this,” she said, and they
+                  <lb/>were her last words.</p>
+            </div>
+         </div>
+         <gap extent="183 pages" reason="editorial"/>
+      </body>
+     <back>
+        <gap extent="back matter and back cover - 10 images"/>
+     </back>
+  </text>
+</TEI>

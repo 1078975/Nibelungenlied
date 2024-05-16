@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Fall of the Nibelungs: a digital edition</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>Taylor edition</date>
+            </edition>
+            <respStmt>
+               <resp> Edited by </resp>
+               <persName>1078975<lb/>
+               </persName>
+               
+            </respStmt>
+         </editionStmt>
+         <extent>6 pages.<note>partial</note></extent>
+         <publicationStmt>
+            <publisher>Taylor Institution Library, one of the Bodleian Libraries of the
+               University of Oxford, </publisher>
+            <date>2024.</date>
+            <availability>
+               <licence xml:id="xml_files"
+                  target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
+                  available for download under a <ref
+                     target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                     Attribution-ShareAlike 4.0 International License</ref>
+                  <graphic url="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/>. </licence>
+               <licence xml:id="image_files"
+                  target="http://creativecommons.org/licenses/by-nc-nd/4.0/"> The image is
+                  reproduced from the Bodleian Library under a <ref
+                     target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative
+                     Commons Attribution-NonCommercial-ShareAlike 3.0 International
+                     License</ref> . </licence>
+            </availability>
+            
+            
+            <idno type="ORA">***put link to ORA data url here***</idno> <!-- Other ids can be given here, for example, a link to a mss description in a Special Collection catalogue -->
+         </publicationStmt>
+         <seriesStmt>
+            <title xml:id="tayeditions">Taylor Editions: </title>
+            <title xml:id="guest">Guest</title>
+         </seriesStmt>
+         <notesStmt>
+            <note type="images">[PNG]</note>
+            <!-- Put the format of the accompanying images (values: "JPEG" (.jpg), "PNG" (.png), "TIFF2" (.tiff), "TIFF" (.tif), or the URI of the manifest for IIIF.)-->
+            <note type="holding"><p>Transcribed from: <orgName>Cornell University Olin Library</orgName>: PT1579.A3 A73, 64–73.  Images scanned
+               for Internet Archive from: Cornell University Olin Library: PT1579.A3 A73, 117 images.</p></note>
+            <note type="intro">
+               <p>This is a facsimile and transcription of <title>The Fall of the Nibelungs.</title>.</p>
+               <p>The transcription was encoded in TEI P5 XML by 1078975. </p>
+            </note>
+         </notesStmt>
+         
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Ithaca, New York</settlement> 
+                  <repository>Cornell University Olin Library</repository> 
+                  <idno>PT1579.A3 A73</idno> 
+               </msIdentifier>
+               <history>
+                  <origin><p><origPlace>London</origPlace> in <origDate when="1887"></origDate>
+                  </p></origin>
+               </history>
+            </msDesc>
+            <bibl type="citation"><title level="m">The Fall of the Nibelungs. Done into English by Margaret Armour. Illustrated and Decorated by W.B. MacDougall.</title>
+               <bibl>
+                  <date when="1887">1887</date></bibl>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by encoding transcription from Internet Archive scans of printed book. </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>This digital edition is a transcription of the thirty-ninth chapter (or adventure) 'How Gunther, Hagen, and Kriemhild Were Slain'. No formework or illustrations are encoded. This transcription is intended for integration with the PRISMS Open Scholarship platform to be used in a knowledge graph describing 19th-century English translations of the German epic poem the Nibelungenlied, and specifically their depictions of Kriemhild's revenge.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+            
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change resp="#1078975"><date>2024-05</date>Transcription completed.</change>
+         <change resp="#EH">
+            <date>2021-03</date>
+            <label>template created</label></change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng" xml:id="The_fall_of_the_Nibelungs">
+     <front>
+        <gap extent="cover and front matter - 19 images"/>
+     </front>
+      <body>
+         <gap extent="293 page images" reason="editorial"/>
+         <pb n="255"/>
+         <div type="chapter">
+            <head rend="allcaps center">Thirty-ninth Adventure</head>
+            <head rend="allcaps center">How Gunther, Hagen, and
+               <lb/>Kriemhild Were Slain</head>
+            <p rend="h_2">Thereupon Sir Dietrich went and got
+               <lb/>his harness himself. Old Hildebrand
+               <lb/>helped to arm him. The strong man
+               <lb/>wept so loud that the house rang with
+               <lb/>his voice. But soon he was of stout heart again, as beseemed a hero. He
+               <lb/>did on his armour in wrath. He took
+               <lb/>a fine-tempered shield in his hand,
+               <lb/>and they hasted to the place—he and
+               <lb/>Master Hildebrand</p>
+            <p rend="h_2">Then said Hagen of Trony, “I see Sir Dietrich yonder. He
+               <lb/>cometh to avenge his great loss. This day will show which of
+               <lb/>us twain is the better man. Howso stark of body and grim Sir Dietrich may deem him, I doubt not but I shall stand against
+               <lb/>him, if he seek vengeance.” So spake Hagen.</p>
+            <p rend="h_2">Dietrich, that was with Hildebrand, heard him. He came where both the knights stood outside the house, leaning against the wall. Good Dietrich laid down his shield, and, moved with
+               <lb/>deep woe, he said, “Why hast thou so entreated a homeless
+               <lb/>knight? What had I done to thee ? Thou hast ended all my
+               <lb/>joy. Thou deemedst it too little to have slain Rudeger to our
+               <lb/>scathe; now thou hast robbed me of all my men. I had never
+            
+            <pb n="256"/>
+               <lb/>done the like to you, O knights. Think on yourselves, and your
+               <lb/>loss—the death of your friends, and your travail. By reason
+               <lb/>thereof are ye not heavy of your cheer? Alack! how bitter to
+               <lb/>me is Rudeger's death! There was never such woe in this
+               <lb/>world. Ye have done evilly by me and by yourselves. All the
+               <lb/>joy I had ye have slain. How shall I ever mourn enough for all
+               <lb/>my kinsmen ?</p>
+            <p rend="h_2">“We are not alone to blame,” answered Hagen. “Your
+               <lb/>knights came hither armed and ready, with a great host. Me
+               <lb break="no" rend="hyphenBefore"/>thinketh the tale hath not been told thee aright.”</p>
+            <p rend="h_2">“What shall I believe then ? Hildebrand said that when my
+               <lb/>knights of Amelung begged you to give them Rudeger's body,
+               <lb/>ye answered mockingly, as they stood below.”</p>
+            <p rend="h_2">Then said the prince of Rhineland, “They told me they were
+               <lb/>come to bear Rudeger hence. I denied them, not to anger thy
+               <lb/>men, but to grieve Etzel withal. Whereat Wolfhart flew in a
+               <lb/>passion.”</p>
+            <p rend="h_2">Said the prince of Bern, “There is nothing for it. Of thy
+               <lb/>knightliness, atone to me for the wrong thou hast done me, and
+               <lb/>I will avenge it no further. Yield thee captive, thee and thy
+               <lb/>man, and I will defend thee to the uttermost against the wrath
+               <lb/>of the Huns. Thou wilt find me faithful and true.”</p>
+            <p rend="h_2">“God in heaven forbid,” cried Hagen, “that two knights,
+               <lb/>armed as we are for battle, should yield them to thee! I would
+               <lb/>hold it a great shame, and ill done.”</p>
+            <p rend="h_2">“Deny me not,” said Dietrich. “Ye have made me heavy-
+               <lb/>hearted enow, O Gunther and Hagen ; and it is no more than
+               <lb/>just, that ye make it good. I swear to you, and give you my
+               <lb/>hand thereon, that I will ride back with you to your own
+               <lb/>country. I will bring you safely thither, or die with you, and
+               <lb/>forget my great wrong for your sakes.”</p>
+            <p rend="h_2">“Ask us no more,” said Hagen. “It were a shameful tale to
+               <lb/>tell of us, that two such bold men yielded them captive. I see
+               <lb/>none save Hildebrand by thy side.”</p>
+            
+            <pb n="257"/>
+            
+            <p rend="h_2">Hildebrand answered, “Ye would do well to take my master's terms ; the hour will come, or long, when ye would gladly take them, but may not have them.”</p>
+            <p rend="h_2">“Certes, I had liefer do it,” said Hagen, “than flee mine
+               <lb/>adversary like a coward, as thou didst, Master Hildebrand. By
+               <lb/>my troth, I deemed thou hadst withstood a foeman better.”</p>
+            <p rend="h_2">Cried Hildebrand, “Thou needest not to twit me. Who
+               <lb/>was it that, by the wask-stone, sat upon his shield when Walter
+               <lb/>of Spain slew so many of his kinsmen ? Thou, thyself, art not
+               <lb/>void of blame.”</p>
+            <p rend="h_2">Said Sir Dietrich then, “It beseemeth not warriors to fight
+               <lb/>with words like old women. I forbid thee, Master Hildebrand,
+               <lb/>to say more. Homeless knight that I am, I have grief enow.
+               <lb/>Tell me now, Sir Hagen, what ye good knights said when
+               <lb/>ye saw me coming armed. Was it not that thou alone wouldst
+               <lb/>defy me ?</p>
+            <p rend="h_2">“Thou hast guessed rightly,” answered Hagen. “I am ready
+               <lb/>to prove it with swift blows, if my Nibelung sword break not. I
+               <lb/>am wroth that ye would have had us yield us captive.”</p>
+            <p rend="h_2">When Dietrich heard grim Hagen's mind, he caught up his
+               <lb/>shield, and sprang up the steps. The Nibelung sword rang loud
+               <lb/>on his mail. Sir Dietrich knew well that the bold man was
+               <lb/>fierce. The prince of Bern warded off the strokes. He needed
+               <lb/>not to learn that Hagen was a valiant knight. Thereto, he feared
+               <lb/>stark Balmung. But ever and anon he struck out warily, till he
+               <lb/>had overcome Hagen in the strife. He gave him a wound that
+               <lb/>was deep and wide. Then thought Sir Dietrich, “Thy long
+               <lb/>travail hath made thee weak. I had little honour in thy death.
+               <lb/>Liefer will I take thee captive.” Not lightly did he prevail. He
+               <lb/>threw down his shield. He was stark and bold, and he caught
+               <lb/>Hagen of Trony in his arms. So the valiant man was vanquished.
+               <lb/>King Gunther grieved sore.</p>
+            <p rend="h_2">Dietrich bound Hagen, and led him to the queen, and delivered
+               <lb/>into her hand the boldest knight that ever bare a sword. After
+            
+            <pb n="258"/>
+            
+               <lb/>her bitter dole, she was glad enow. She bowed before the
+               <lb/>knight for joy. “Blest be thou in soul and body. Thou hast
+               <lb/>made good to me all my woe. I will thank thee till my dying
+               <lb/>day.”</p>
+            <p rend="h_2">Then said Dietrich, “Let him live, noble queen. His service
+               <lb/>may yet atone to thee for what he hath done to thy hurt. Take
+               <lb/>not vengeance on him for that he is bound.”</p>
+            <p rend="h_2">She bade them lead Hagen to a dungeon. There he lay locked
+               <lb/>up, and none saw him.</p>
+            <p rend="h_2">Then King Gunther called aloud, “Where is the hero of
+               <lb/>Bern ? He hath done me a grievous wrong.”</p>
+            <p rend="h_2">Sir Dietrich went to meet him. Gunther was a man of might.
+               <lb/>He tarried not, but ran toward him from the hall. Loud was the
+               <lb/>din of their swords.</p>
+            <p rend="h_2">Howso famed Dietrich was from aforetime, Gunther was so wroth
+               <lb/>and so fell, and so bitterly his foeman, by reason of the
+               <lb/>wrong he had endured, that it was a marvel Sir Dietrich came off
+               <lb/>alive. They were stark and mighty men both. Palace and
+               <lb/>towers echoed with their blows, as their swift swords hewed
+               <lb/>their good helmets. A high-hearted king was Gunther.</p>
+            <p rend="h_2">But the knight of Bern overcame him, as he had done Hagen.
+               <lb/>His blood gushed from his harness by reason of the good sword
+               <lb/>that Dietrich carried. Yet Gunther had defended him well, for
+               <lb/>all he was so weary.</p>
+            <p rend="h_2">The knight was bound by Dietrich's hand, albeit a king should
+               <lb/>never wear such bonds. Dietrich deemed, if he left Gunther
+               <lb/>and his man free, they would kill all they met.</p>
+            <p rend="h_2">He took him by the hand, and led him before Kriemhild. Her
+               <lb/>sorrow was lighter when she saw him. She said, “Thou art
+               <lb/>welcome, King Gunther.”</p>
+            <p rend="h_2">He answered, “I would thank thee, dear sister, if thy greeting
+               <lb/>were in love. But I know thy fierce mind, and that thou mockest
+               <lb/>me and Hagen.”</p>
+            <p rend="h_2">Then said the prince of Bern, “Most high queen, there were
+            
+            <pb n="259"/>
+            
+               <lb/>never nobler captives than these I have delivered here into thy
+               <lb/>hands. Let the homeless knights live for my sake.”</p>
+            <p rend="h_2">She promised him she would do it gladly, and good Dietrich
+               <lb/>went forth weeping. Yet soon Etzel's wife took grim vengeance,
+               <lb/>by reason whereof both the valiant men perished. She kept them
+               <lb/>in dungeons, apart, that neither saw the other again till she bore
+               <lb/>her brother's head to Hagen. Certes, Kriemhild's vengeance was bitter.</p>
+            <p rend="h_2">The queen went to Hagen, and spake angrily to the knight.</p>
+            <p rend="h_2">“Give me back what thou hast taken from me, and ye may both
+               <lb/>win back alive to Burgundy.”</p>
+            <p rend="h_2">But grim Hagen answered, “Thy words are wasted, noble
+               <lb/>queen. I have sworn to show the hoard to none. While one
+               <lb/>of my masters liveth, none other shall have it.”</p>
+            <p rend="h_2">“I will end the matter,” said the queen. Then she bade them
+               <lb/>slay her brother, and they smote off his head. She carried it by
+               <lb/>the hair to the knight of Trony. He was grieved enow.</p>
+            <p rend="h_2">When the sorrowful man saw his master's head, he cried to
+               <lb/>Kriemhild, “Thou hast wrought all thy will. It hath fallen
+               <lb/>out as I deemed it must. The noble King of Burgundy is dead,
+               <lb/>and Giselher the youth, and eke Gemot. None knoweth of the
+               <lb/>treasure now save God and me. Thou shalt never see it, devil
+               <lb/>that thou art.”</p> 
+            <p rend="h_2">She said, “I come off ill in the reckoning. I will keep Siegfried's
+               <lb/>sword at the least. My true love wore it when I saw him last.
+               <lb/>My bitterest heart's dole was for him.”</p>
+            <p rend="h_2">She drew it from the sheath. He could not hinder it. She
+               <lb/>purposed to slay the knight. She lifted it high with both hands,
+               <lb/>and smote off his head.</p>
+            <p rend="h_2">King Etzel saw it, and sorrowed. “Alack !” cried the king,
+               <lb/>“The best warrior that ever rode to battle, or bore a shield, hath
+               <lb/>fallen by the hand of a woman ! Albeit I was his foeman, I
+               <lb/>must grieve.”</p>
+            <p rend="h_2">Then said Master Hildebrand, “His death shall not profit
+            
+            <pb n="260"/>
+            
+               <lb/>her. I care not what come of it. Though I came in scathe by
+               <lb/>him myself, I will avenge the death of the bold knight of
+               <lb/>Trony.”</p>
+            <p rend="h_2">Hildebrand sprang fiercely at Kriemhild, and slew her with
+               <lb/>his sword. She suffered sore by his anger. Her loud cry
+               <lb/>helped her not.</p>
+            <p rend="h_2">Dead bodies lay stretched over all. The queen was hewn
+               <lb/>in pieces. Etzel and Dietrich began to weep. They wailed
+               <lb/>piteously for kinsmen and vassals. Mickle valour lay there
+               <lb/>slain. The folk were doleful and dreary.</p>
+            <p rend="h_2">The end of the king's hightide was woe, even as, at the last,
+               <lb/>all joy turneth to sorrow.</p>
+            <p rend="h_2">I know not what fell after. Christian and heathen, wife,
+               <lb/>man, and maid, were seen weeping and mourning for their
+               <lb/>friends.</p>
+            <trailer rend="center">
+               <lg>
+                  <l>I will tell you no more. Let the dead lie.</l>
+                  <l>However it fared after with the Huns,</l>
+                  <l>my tale is ended. This is the</l>
+                  <l>Fall of the Nibelungs.</l>
+               </lg>
+            </trailer>
+         </div>
+      </body>
+     <back>
+        <gap extent="back matter and back cover - 4 images" reason="editorial"/>
+     </back>
+  </text>
+</TEI>
