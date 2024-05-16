@@ -40,15 +40,14 @@
             </availability>
             
             
-            <idno type="Git">***put link to ORA data url here***</idno>
+            <idno type="Git">https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_heroic_life.xml</idno>
          </publicationStmt>
          <seriesStmt>
             <title xml:id="tayeditions">Taylor Editions: </title>
             <title xml:id="guest">Guest</title>
          </seriesStmt>
          <notesStmt>
-            <note type="images">[PNG]</note>
-            <!-- Put the format of the accompanying images (values: "JPEG" (.jpg), "PNG" (.png), "TIFF2" (.tiff), "TIFF" (.tif), or the URI of the manifest for IIIF.)-->
+            <note type="images">[JPEG]</note>
             <note type="holding"><p>Transcribed from: <orgName>Taylor Institution Library</orgName>: FIEDLER.G.550, 106–118.  Images scanned
                by Google Books from: Taylor Institution Library: FIEDLER.G.550, 153 images.</p></note>
             <note type="intro">
@@ -80,7 +79,7 @@
             <p>Created by encoding transcription from Google Book scans of printed book. </p>
          </projectDesc>
          <editorialDecl>
-            <p>This digital edition is a transcription of the fourteenth chapter (or last adventure), 'Siegfried's fight with the Dragon'. No formework or illustrations are encoded. The long 's' (ſ) was preserved. This transcription is intended for integration with the PRISMS Open Scholarship platform to be used in a knowledge graph describing 19th-century English translations of the German epic poem the Nibelungenlied, and specifically their depictions of Kriemhild's revenge.</p>
+            <p>This digital edition is a transcription of the fourteenth chapter (or last adventure), 'Siegfried's Last Fight with the Dragon'. No forme work or illustrations are encoded. The long 's' (ſ) was preserved. This transcription is intended for integration with the PRISMS Open Scholarship platform to be used in a knowledge graph describing 19th-century English translations of the German epic poem the Nibelungenlied, and specifically their depictions of Kriemhild's revenge.</p>
          </editorialDecl>
       </encodingDesc>
       <profileDesc>
