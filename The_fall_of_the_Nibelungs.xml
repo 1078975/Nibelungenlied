@@ -47,7 +47,7 @@
             <title xml:id="guest">Guest</title>
          </seriesStmt>
          <notesStmt>
-            <note type="images">[JPEG]</note>
+            <note type="images">[PNG]</note>
             <note type="holding"><p>Transcribed from: <orgName>Cornell University Olin Library</orgName>: PT1579.A3 A73, 64–73.  Images scanned
                for Internet Archive from: Cornell University Olin Library: PT1579.A3 A73, 117 images.</p></note>
             <note type="intro">
@@ -101,7 +101,7 @@
      </front>
       <body>
          <gap extent="293 page images" reason="editorial"/>
-         <pb n="255"/>
+         <pb n="255" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_fall_of_the_Nibelungs/The_fall_of_the_Nibelungs_255.png"/>
          <div type="chapter">
             <head rend="allcaps center">Thirty-ninth Adventure</head>
             <head rend="allcaps center">How Gunther, Hagen, and
@@ -125,7 +125,7 @@
                <lb/>joy. Thou deemedst it too little to have slain Rudeger to our
                <lb/>scathe; now thou hast robbed me of all my men. I had never
             
-            <pb n="256"/>
+               <pb n="256" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_fall_of_the_Nibelungs/The_fall_of_the_Nibelungs_256.png"/>
                <lb/>done the like to you, O knights. Think on yourselves, and your
                <lb/>loss—the death of your friends, and your travail. By reason
                <lb/>thereof are ye not heavy of your cheer? Alack! how bitter to
@@ -161,7 +161,7 @@
                <lb/>tell of us, that two such bold men yielded them captive. I see
                <lb/>none save Hildebrand by thy side.”</p>
             
-            <pb n="257"/>
+            <pb n="257" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_fall_of_the_Nibelungs/The_fall_of_the_Nibelungs_257.png"/>
             
             <p rend="h_2">Hildebrand answered, “Ye would do well to take my master's terms ; the hour will come, or long, when ye would gladly take them, but may not have them.”</p>
             <p rend="h_2">“Certes, I had liefer do it,” said Hagen, “than flee mine
@@ -196,7 +196,7 @@
             <p rend="h_2">Dietrich bound Hagen, and led him to the queen, and delivered
                <lb/>into her hand the boldest knight that ever bare a sword. After
             
-            <pb n="258"/>
+               <pb n="258" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_fall_of_the_Nibelungs/The_fall_of_the_Nibelungs_258.png"/>
             
                <lb/>her bitter dole, she was glad enow. She bowed before the
                <lb/>knight for joy. “Blest be thou in soul and body. Thou hast
@@ -233,7 +233,7 @@
                <lb/>me and Hagen.”</p>
             <p rend="h_2">Then said the prince of Bern, “Most high queen, there were
             
-            <pb n="259"/>
+               <pb n="259" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_fall_of_the_Nibelungs/The_fall_of_the_Nibelungs_259.png"/>
             
                <lb/>never nobler captives than these I have delivered here into thy
                <lb/>hands. Let the homeless knights live for my sake.”</p>
@@ -269,7 +269,7 @@
                <lb/>must grieve.”</p>
             <p rend="h_2">Then said Master Hildebrand, “His death shall not profit
             
-            <pb n="260"/>
+               <pb n="260" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_fall_of_the_Nibelungs/The_fall_of_the_Nibelungs_260.png"/>
             
                <lb/>her. I care not what come of it. Though I came in scathe by
                <lb/>him myself, I will avenge the death of the bold knight of

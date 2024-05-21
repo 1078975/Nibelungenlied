@@ -47,7 +47,7 @@
             <title xml:id="guest">Guest</title>
          </seriesStmt>
          <notesStmt>
-            <note type="images">[JPEG]</note>
+            <note type="images">[PNG]</note>
             <note type="holding"><p>Transcribed from: <orgName>Bodleian Library</orgName>: (OC) 251 a.89, 279–299.  Images scanned
                by Google Books from: Bodleian Library: (OC) 251 a.89, 499 images.</p></note>
             <note type="intro">
@@ -102,7 +102,7 @@
       <body>
          <gap extent="272 page images" reason="editorial"/>
          <div type="chapter">
-            <pb n="279"/>
+            <pb n="279" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_279.png"/>
             <head rend="allcaps center">II. The Burgundians Visit Hunland</head>
             <div type="section">
                <head rend="smallcaps center">The Journey.</head>
@@ -122,7 +122,7 @@
                <p rend="h_2">“The Nibelungs are going to visit the Huns,” said the common
                   <lb/>people, as they watched King Etzel's visitors crossing the Rhine;
                   <lb/>for, ever since the treasure had come into the country, the kings
-               <pb n="280"/>
+                  <pb n="280" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_280.png"/>
                   
                   <lb/>and their followers had been called Nibelungs, after the unknown
                   <lb/>land.</p>
@@ -156,7 +156,7 @@
                   <lb/>the priest, who accompanied them, overboard, that at least one
                   <lb/>portion of the swan-maiden's prophecy might come to nought.
                   <lb/>But he had miscalculated in this instance; the priest's floating
-                  <pb n="281"/>
+                  <pb n="281" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_281.png"/>
                   
                   <lb/>garments upheld him on the turbulent waters, and the current
                   <lb/>drove him back to the shore.
@@ -191,7 +191,7 @@
                   <lb/>of the Huns, on the borders of which they were met by Dietrich
                   <lb/>and many other warriors. Accompanied by these, and by Rüdiger,
                   <lb/>they at length arrived at Etzelburg. The queen came down to
-                  <pb n="282"/>
+                  <pb n="282" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_282.png"/>
                   
                   <lb/>meet them in the castle court. She greeted the kings, and kissed
                   <lb/>young Giselher, but scarcely seemed to see the warriors who ac
@@ -227,7 +227,7 @@
                   <lb/>whose advice he was following in this matter; then the Amelung
                   <lb/>hero came fonvard, and boldly avowed that it was he who had
                   <lb/>given this counsel, for he knew well the devilish plots that were
-                  <pb n="283"/>
+                  <pb n="283" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_283.png"/>
                   
                   <lb/>being contrived in the palace. The queen only answered him
                   <lb/>with an angry look, and at once retired to her apartments.</p>
@@ -261,7 +261,7 @@
                   <lb/>warriors were that looked so brave, and stood so close together.</p>
                <p rend="h_2">“They are Volker the minstrel, and my uncle Hagen of
                   <lb/>Tronje,” replied King Gunther.</p>
-               <pb n="284"/>
+               <pb n="284" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_284.png"/>
                
                <p rend="h_2">“What, Hagen!” cried Etzel. “So we have met again at last,
                   <lb/>old friend, and I can tell you to your face that you have not belied
@@ -295,7 +295,7 @@
                   <lb/>why they wore their armour. But they answered that such was
                   <lb/>their custom, not thinking it well to tell him what hid happened
                   <lb/>during the night</p>
-               <pb n="285"/>
+               <pb n="285" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_285.png"/>
                
                <p rend="h_2">After the service was over, a great repast was served, which was
                   <lb/>in turn succeeded by games, dances, music, and other entertain
@@ -330,7 +330,7 @@
                <p rend="h_2">Before the warriors went to the feast that evening, Queen
                   <lb/>Chriemhild had spoken privately to the hero of Bern. She
                   <lb/>promised him Etzel's help in regaining his kingdom, if he would
-               <pb n="286"/>
+                  <pb n="286" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_286.png"/>
                
                   <lb/>do her one service-if he would avenge Siegfried's death. But
                   <lb/>he told her that he could not, for the Burgundian warriors were
@@ -365,7 +365,7 @@
                   <lb/>nothing but empty air. She determined now to go on to the bitter
                   <lb/>end. Whether her vengeance brought about the death of her
                   <lb/>little son, and of King Etzel; whether it brought about the de­
-                  <pb n="287"/>
+                  <pb n="287" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_287.png"/>
                   
                   <lb/>struction of the kingdom, she did not care. She could die, and
                   <lb/>die willingly, if only she had the murderer's life.
@@ -400,7 +400,7 @@
                <p rend="h_2">The fight recommenced in the banqueting hall, m spite of all
                   <lb/>King Gunther's efforts to smooth matters over, and during the
                   <lb/>struggle the little Prince Ortlieb, the sole hope of Etzel's house,
-               <pb n="288"/>
+                  <pb n="288" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_288.png"/>
                
                   <lb/>was killed. At length Hagen, Dankwart, and Volker, succeeded
                   <lb/>in locking and bolting the doors of the hall.</p>
@@ -434,7 +434,7 @@
                <lb break="no" rend="hyphenBefore"/>rible carnage recommenced. The Burgundian swords had no rest,
                   <lb/>until all the Huns were lying dead or dying on the floor. After
                   <lb/>that the Nibelungs rested awhile from their labours, but Hagen
-               <pb n="289"/>
+                  <pb n="289" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_289.png"/>
                
                   <lb/>speedily called them to be up and doing, and fling the corpses out,
                   <lb/>lest they should be in the way in any renewed attack He was at
@@ -470,7 +470,7 @@
                <head rend="smallcaps center">The Parley and the Fire.</head>
                <p rend="h_2">Silence fell on the palace. The Nibelung warriors laid down
                   <lb/>their shields and heavy armour, that they might the better rest
-               <pb n="290"/>
+                  <pb n="290" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_290.png"/>
                
                   <lb/>from their labours, while Hagen and Volker kept watch by the
                   <lb/>door. During this time of quiet, the Burgundians tried to make
@@ -504,7 +504,7 @@
                   <lb/>they had entrenched themselves was too strongly built to have
                   <lb/>suffered much from the fire in the wooden upper storey; though
                   <lb/>the Burgundians were for a long time as if shut up in an oven, the
-               <pb n="291"/>
+                  <pb n="291" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_291.png"/>
                
                   <lb/>heat was so terrific; they yet escaped with their lives; and Hagen
                   <lb/>made them slake their intolerable thirst by drinking the blood of
@@ -539,7 +539,7 @@
                   <lb/>to raise my hand against them that trusted me.”</p>
                <p rend="h_2">When the king reminded him of his oath of allegiance, he
                   <lb/>continued,—</p>
-               <pb n="292"/>
+               <pb n="292" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_292.png"/>
                
                <p rend="h_2">“Take back my castles and towns, the wealth that you have
                   <lb/>given me, and the possessions I have won for myself. I will
@@ -573,7 +573,7 @@
                   <lb/>noble friends forced to fight against their will. Once more the
                   <lb/>blood of the Nibelungs and their opponents stained the great
                   <lb/>ball. The heat of battle raged anew in every heart, and many
-               <pb n="293"/>
+                  <pb n="293" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_293.png"/>
                
                   <lb/>men were slain. Amongst the number were Rüdiger and Gernot.
                   <lb/>At length the men of Bechelaren were conquered, and slain
@@ -608,7 +608,7 @@
                   <lb/>hastened to his master and told him the strange tale. Dietrich
                   <lb/>refused to believe it, and sent Helfrich to the palace to find
                   <lb/>out the truth. On hearing the news of Rüdiger's death con­
-               <pb n="294"/>
+                  <pb n="294" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_294.png"/>
                
                   <lb/>firmed, the hero of Bern sent his old master Hildebrand to ask
                   <lb/>the Nibelungs why they had done this evil deed.</p>
@@ -642,7 +642,7 @@
                <lb break="no" rend="hyphenBefore"/>ing as with one voice their ancient war-cry. Master Hilde
                <lb break="no" rend="hyphenBefore"/>brand, drawn on in the general rush, was found in a foremost
                   <lb/>place when the battle began. The tired Nibelungs, and the brave
-               <pb n="295"/>
+                  <pb n="295" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_295.png"/>
                
                   <lb/>Amelungs—men who had formerly fought side by side m the
                   <lb/>great battle of Ravenna, and on many other fields—were now
@@ -676,7 +676,7 @@
                <p rend="h_2">“Come now, Master Hildebrand,” cried a rough voice, “you
                   <lb/>owe me satisfaction for the death of my comrade Volker.”</p>
                <p rend="h_2">It was Hagen that spoke. The meaſdtelsmer defend his
-               <pb n="296"/>
+                  <pb n="296" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_296.png"/>
                   <lb/>bravely, but the hero of Tronje was strong and determined, and
                   <lb/>Balmung was sharp. One terrible blow cut through Hildebrand's
                   <lb/>coat of mail, and the blood flowed freely from his side.</p>
@@ -710,7 +710,7 @@
                   <lb/>accompanied by the master, went full-armed to the house where
                   <lb/>Hagen and Gunther awaited their fate with undaunted courage.</p>
                <p rend="h_2">Hagen and Hildebrand exchanged so many scornful words
-               <pb n="297"/>
+                  <pb n="297" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_297.png"/>
                
                   <lb/>when they met, that Dietrich chid them for a couple of old
                   <lb/>women, and demanded that the combat should at once begin.
@@ -744,7 +744,7 @@
                <p rend="h_2">The hero of Bern soon afterwards appeared with King Gunther
                   <lb/>as a prisoner; the latter was at once taken to a separate dungeon
                   <lb/>Chriemhild considered what was now to be done. Siegfried's
-               <pb n="298"/>
+                  <pb n="298" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_298.png"/>
                
                   <lb/>murderers were now in her hands, both the man who had done
                   <lb/>the deed, and the king who had condoned it.</p>
@@ -778,7 +778,7 @@
                   <lb/>the good sword Balmung that lay beside Hagen's armour.</p>
                <p rend="h_2">“You took good care of the gold you stole from me,” she said,
                   <lb/>“but another thing that you stole I have in my hands at this
-               <pb n="299"/>
+                  <pb n="299" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_299.png"/>
                
                   <lb/>moment. My noble husband Siegfried wore this sword when
                   <lb/>last I saw him, before he fell under your murderous hand. I will

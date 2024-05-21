@@ -47,7 +47,7 @@
             <title xml:id="guest">Guest</title>
          </seriesStmt>
          <notesStmt>
-            <note type="images">[JPEG]</note>
+            <note type="images">[PNG]</note>
             <note type="holding"><p>Transcribed from: <orgName>Bodleian Library</orgName>: (OC) 250 d.150, 64–73.  Images scanned
                by Google Books from: Bodleian Library: (OC) 250 d.150, 117 images.</p></note>
             <note type="intro">
@@ -101,7 +101,7 @@
       </front>
       <body>
          <gap extent="67 page images" reason="editorial"/>
-         <pb n="64"/>
+         <pb n="64" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_64.png"/>
          
          <div type="chapter">
             <head rend="allcaps center">Chapter IX.</head>
@@ -127,7 +127,7 @@
                <lb/>their arms, so that they might escape with their lives; and then
                <lb/>Criemhild, hearing of the conference that was going on between
                <lb/>her husband and brothers, rushed wildly into the hall, where
-            <pb n="65"/>
+               <pb n="65" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_65.png"/>
             
                <lb/>they were holding parley. Her golden hair hung dishevelled
                <lb/>upon her shoulders, and a fire as of madness glittered in her eye.</p>
@@ -155,7 +155,7 @@
                <lb/>the morning dawned, many a mother's son, who had managed
                <lb/>to escape the sword of the enemy, fell to earth, a prey to the
                <lb/>devouring flames.</p>
-            <pb n="66"/>
+            <pb n="66" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_66.png"/>
             
             <p rend="h_2">Now the margrave, Rudiger,
                <lb/>having had Gunther's permis
@@ -173,7 +173,7 @@
                <lb/>upon her foes, he felt heavy
                <lb/>and sad at heart, and it was no
                <lb/>shame to his manhood that the
-               <pb n="67"/>
+               <pb n="67" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_67.png"/>
             
                <lb/>big tears dropped from his eyes, as the wail of the dying came
                <lb/>borne to him on the morning breeze.</p>
@@ -201,7 +201,7 @@
                <lb/>tree.</p>
             <p rend="h_2">But no! Death, death to the last. Revenge upon Hagen
                <lb/>and his allies was the one wish of Etzel and the queen.</p>
-            <pb n="68"/>
+            <pb n="68" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_68.png"/>
             
             <p rend="h_2">They threw themselves at Rudiger's feet, imploring him to
                <lb/>strike but once again and rid them of their enemies.</p>
@@ -229,7 +229,7 @@
                <lb/>the earth could never bring forth a nobler rival than he, and that
                <lb/>however the affair might go on, his hand at least should never
                <lb/>touch him.</p>
-            <pb n="69"/>
+            <pb n="69" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_69.png"/>
             
             <p rend="h_2">After that the struggle began in right earnest. Like a warhorse
                <lb/>scenting the battle, Rudiger threw himself wildly into the
@@ -257,7 +257,7 @@
                <lb/>him bringing her foe captive to her feet, telling him that now
                <lb/>indeed he had brought her balm to relieve her woe.</p>
             <p rend="h_2">And the noble Dietrich replied: “Great queen, grant him
-               <pb n="70"/>
+               <pb n="70" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_70.png"/>
             
                <lb/>but his life, it may be that he will render you such good service
                <lb/>as may atone for all the grief he has caused you.”</p>
@@ -285,7 +285,7 @@
                <lb/>were doomed to die far from home and native land.</p>
             <p rend="h_2">Then Criemhild took the vengeance for which she had so
                <lb/>thirsted.</p>
-            <pb n="71"/>
+            <pb n="71" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_71.png"/>
             
             <p rend="h_2">She caused her servants to put Gunther in safe durance, and
                <lb/>she herself went to Hagen to hold parley with him.</p>
@@ -313,7 +313,7 @@
                <lb/>art. None but heaven and myself know the spot where it lies,
                <lb/>and sooner should my tongue be torn from my mouth, than that
                <lb/>thou shouldst wrest my secret from me.”</p>
-            <pb n="72"/>
+            <pb n="72" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_72.png"/>
             
             <p rend="h_2">And the queen cried out in
                <lb/>answer:—</p>
@@ -329,7 +329,7 @@
                <lb/>no power to resist.</p>
             <p rend="h_2">Brandishing the weapon
                <lb/>with both hands, Criemhild
-               <pb n="73"/>
+               <pb n="73" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_73.png"/>
             
                <lb/>aimed a blow at Hagen. A good aim in truth it was, for his
                <lb/>gory head fell at her feet, and Siegfried's murder was avenged.</p>

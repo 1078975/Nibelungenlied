@@ -47,7 +47,7 @@
             <title xml:id="guest">Guest</title>
          </seriesStmt>
          <notesStmt>
-            <note type="images">[JPEG]</note>
+            <note type="images">[PNG]</note>
             <note type="holding"><p>Transcribed from: <orgName>Taylor Institution Library</orgName>: (OC) 251 k.796, 106–118.  Images scanned
                by Google Books from: Taylor Institution Library: (OC) 251 k.796, 391 images.</p></note>
             <note type="intro">
@@ -101,7 +101,7 @@
       </front>
       <body>
          <gap extent="314 page images" reason="editorial"/>
-         <pb n="291"/>
+         <pb n="291" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_story_of_siegfried/Story_of_siegfried_291.png"/>
          <div type="afterword">
             <head rend="allcaps center">The After Word.</head>
             <p rend="h_2">Such is the story of Siegfried (or Sigurd), as we
@@ -120,7 +120,7 @@
                <lb/>relationship and agreement which proves beyond doubt
                <lb/>a common origin. “The primeval myth,” says Thomas
                <lb/>Carlyle, “whether it were at first philosophical truth, or
-               <pb n="292"/>
+               <pb n="292" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_story_of_siegfried/Story_of_siegfried_292.png"/>
                <lb/>historical incident, floats too vaguely on the breath of
                <lb/>men: each has the privilege of inventing, and the far
                <lb/>wider privilege of borrowing and new modelling from
@@ -147,7 +147,7 @@
                <lb/>—not at all so savage and inhuman as our histories
                <lb/>would sometimes make us believe. For however mis
                <lb rend="hyphenBefore" break="no"/>taken their notions may have been, and however
-               <pb n="293"/>
+               <pb n="293" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_story_of_siegfried/Story_of_siegfried_293.png"/>
                <lb/>ignorant they were, according to our ideas of things,
                <lb/>they were strong-hearted, brave workers; and, so far
                <lb/>as opportunity was afforded them, they acted well their
