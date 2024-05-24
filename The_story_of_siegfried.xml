@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The Heroic Life and Exploits of Siegfried the Dragon Slayer: a digital edition</title>
+            <title>The Story of Siegfried: a digital edition</title>
          </titleStmt>
          <editionStmt>
             <edition>
@@ -57,21 +57,22 @@
          </notesStmt>
          
          <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <settlement>Oxford</settlement> 
-                  <repository>Bodleian Library</repository> 
-                  <idno>(OC) 251 k.796</idno> 
-               </msIdentifier>
-               <history>
-                  <origin><p><origPlace>London</origPlace> in <origDate when="1883"></origDate>
-                  </p></origin>
-               </history>
-            </msDesc>
-            <bibl type="citation"><title level="m">The Story of Siegfried. By James Baldwin. Illustrated by Howard Pyle.</title>
-               <bibl>
-                  <date when="1883">1883</date></bibl>
-            </bibl>
+            <biblFull>
+               <titleStmt>
+                  <title>The Story of Siegfried.</title>
+                  <author>
+                     <persName>
+                        Baldwin, James, 1841-1925.</persName>
+                  </author>
+                  
+               </titleStmt>
+               
+               <publicationStmt>
+                  <publisher>[s.n.], </publisher>
+                  <pubPlace>London :  </pubPlace>
+                  <date when="1883">[1883]</date>
+               </publicationStmt>
+            </biblFull>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -95,13 +96,13 @@
             <label>template created</label></change>
       </revisionDesc>
    </teiHeader>
-   <text xml:lang="eng" xml:id="The_story_of_siegfried">
+   <text xml:lang="eng" xml:id="story-of-siegfried">
       <front>
-         <gap extent="front cover and front matter - 17 images"/>
+         <gap extent="17" unit="images" reason="editorial"/>
       </front>
       <body>
-         <gap extent="314 page images" reason="editorial"/>
-         <pb n="291" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_story_of_siegfried/Story_of_siegfried_291.png"/>
+         <gap extent="314" unit="images" reason="editorial"/>
+         <pb n="291" facs="Story_of_siegfried_291"/>
          <div type="afterword">
             <head rend="allcaps center">The After Word.</head>
             <p rend="h_2">Such is the story of Siegfried (or Sigurd), as we
@@ -120,7 +121,7 @@
                <lb/>relationship and agreement which proves beyond doubt
                <lb/>a common origin. “The primeval myth,” says Thomas
                <lb/>Carlyle, “whether it were at first philosophical truth, or
-               <pb n="292" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_story_of_siegfried/Story_of_siegfried_292.png"/>
+               <pb n="292" facs="Story_of_siegfried_292"/>
                <lb/>historical incident, floats too vaguely on the breath of
                <lb/>men: each has the privilege of inventing, and the far
                <lb/>wider privilege of borrowing and new modelling from
@@ -147,7 +148,7 @@
                <lb/>—not at all so savage and inhuman as our histories
                <lb/>would sometimes make us believe. For however mis
                <lb rend="hyphenBefore" break="no"/>taken their notions may have been, and however
-               <pb n="293" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/The_story_of_siegfried/Story_of_siegfried_293.png"/>
+               <pb n="293" facs="Story_of_siegfried_293"/>
                <lb/>ignorant they were, according to our ideas of things,
                <lb/>they were strong-hearted, brave workers; and, so far
                <lb/>as opportunity was afforded them, they acted well their
@@ -158,7 +159,7 @@
          </div>
       </body>
       <back>
-         <gap extent="back matter and back cover - 57 images" reason="editorial"/>
+         <gap extent="57" unit="images" reason="editorial"/>
       </back>
   </text>
 </TEI>
