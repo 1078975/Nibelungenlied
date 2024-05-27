@@ -57,21 +57,24 @@
          </notesStmt>
          
          <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <settlement>Oxford</settlement> 
-                  <repository>Bodleian Library</repository> 
-                  <idno>(OC) 251 a.89</idno> 
-               </msIdentifier>
-               <history>
-                  <origin><p><origPlace>London</origPlace> in <origDate when="1883"></origDate>
-                  </p></origin>
-               </history>
-            </msDesc>
-            <bibl type="citation"><title level="m">Epics and Romances of the Middle Ages. Adapted From the Work of Dr. W. Wägner By M. W. MacDowell, and Edited By W. S. W. Anson.</title>
-               <bibl>
-                  <date when="1883">1883</date></bibl>
-            </bibl>
+            <biblFull>
+               <titleStmt>
+                  <title>Epics and Romances of the Middle Ages. Adapted From the Work of Dr. W. Wägner By M. W. Macdowall, and Edited By W. S. W. Anson.</title>
+                  <author>
+                     <persName>
+                        Macdowall, Maria Wilhelmina.</persName>
+                     <persName>
+                        Wägner, Johann Wilhelm E. </persName>
+                  </author>
+                  <editor>
+                     <persName>Sonnenschein, William Swan, 1855-1931</persName></editor>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>[s.n.], </publisher>
+                  <pubPlace>London:  </pubPlace>
+                  <date when="1883">1883</date>
+               </publicationStmt>
+            </biblFull>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -95,12 +98,12 @@
             <label>template created</label></change>
       </revisionDesc>
    </teiHeader>
-   <text xml:lang="eng" xml:id="Epics_and_romances">
+   <text xml:lang="eng" xml:id="epics-and-romances">
       <front>
-         <gap extent="cover and front matter - 13 images" reason="editorial"/>
+         <gap extent="13" unit="images" reason="editorial"/>
       </front>
       <body>
-         <gap extent="272 page images" reason="editorial"/>
+         <gap extent="272" unit="images" reason="editorial"/>
          <div type="chapter">
             <pb n="279" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_279.png"/>
             <head rend="allcaps center">II. The Burgundians Visit Hunland</head>
@@ -806,10 +809,10 @@
                   <lb/>were her last words.</p>
             </div>
          </div>
-         <gap extent="183 pages" reason="editorial"/>
+         <gap extent="183" unit="pages" reason="editorial"/>
       </body>
      <back>
-        <gap extent="back matter and back cover - 10 images"/>
+        <gap extent="10" unit="images" reason="editorial"/>
      </back>
   </text>
 </TEI>

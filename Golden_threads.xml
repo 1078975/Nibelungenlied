@@ -57,21 +57,21 @@
          </notesStmt>
          
          <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <settlement>Oxford</settlement> 
-                  <repository>Bodleian Library</repository> 
-                  <idno>(OC) 250 d.150</idno> 
-               </msIdentifier>
-               <history>
-                  <origin><p><origPlace>New York</origPlace> in <origDate when="1880"></origDate>
-                  </p></origin>
-               </history>
-            </msDesc>
-            <bibl type="citation"><title level="m">Golden Threads from an Ancient Loom. Das Nibelungenlied, Adapted to the Use of Young Readers. By Lydia Hands. With Fourteen Wood Engravings, by Julius Schnorr, of Carolsfeld.</title>
-               <bibl>
-                  <date when="1880">1880</date></bibl>
-            </bibl>
+            <biblFull>
+               <titleStmt>
+                  <title>
+                     Golden Threads from an Ancient Loom. Das Nibelunglied, adapted to the use of young readers.</title>
+                  <author>
+                     <persName>
+                        Hands, Lydia.</persName>
+                  </author>
+               </titleStmt>
+               <publicationStmt>
+                  <publisher>[s.n.], </publisher>
+                  <pubPlace>London: </pubPlace>
+                  <date when="1880">1880</date>
+               </publicationStmt>
+            </biblFull>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -95,12 +95,12 @@
             <label>template created</label></change>
       </revisionDesc>
    </teiHeader>
-   <text xml:lang="eng" xml:id="Golden_threads">
+   <text xml:lang="eng" xml:id="golden-threads">
       <front>
-         <gap extent="cover and front matter - 17 images" reason="editorial"/>
+         <gap extent="17" unit="images" reason="editorial"/>
       </front>
       <body>
-         <gap extent="67 page images" reason="editorial"/>
+         <gap extent="67" unit="images" reason="editorial"/>
          <pb n="64" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_64.png"/>
          
          <div type="chapter">
@@ -349,10 +349,10 @@
                <lb/>and the noxious odour from its fœtid berries had impregnated the
                <lb/>air with a wide-spread miasma of death and desolation.</p>
          </div>
-         <gap extent="2 pages" reason="editorial"/>
+         <gap extent="2" unit="pages" reason="editorial"/>
       </body>
       <back>
-         <gap extent="back matter and back cover - 21 images" reason="editorial"/>
+         <gap extent="21" unit="images" reason="editorial"/>
       </back>
       
   </text>
