@@ -23,7 +23,7 @@
          <publicationStmt>
             <publisher>Taylor Institution Library, one of the Bodleian Libraries of the
                University of Oxford, </publisher>
-            <date>2024.</date>
+            <date>2024. </date>
             <availability>
                <licence xml:id="xml_files"
                   target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
@@ -106,7 +106,7 @@
          <div type="afterword">
             <head rend="allcaps center">The After Word.</head>
             <p rend="h_2">Such is the story of Siegfried (or Sigurd), as we
-               <lb/>gather it from various. German and Scandinavian
+               <lb/>gather it from various German and Scandinavian
                <lb/>legends. In this recital I have made no attempt to
                <lb/>follow any one of the numerous originals, but have
                <lb/>selected here and there such incidents as best suited
@@ -125,7 +125,7 @@
                <lb/>historical incident, floats too vaguely on the breath of
                <lb/>men: each has the privilege of inventing, and the far
                <lb/>wider privilege of borrowing and new modelling from
-               <lb/>all that preceded him. Thus, though tradition may
+               <lb/><emph rend="italic">all</emph> that preceded him. Thus, though tradition may
                <lb/>have but one root, it grows, like a banian, into a whole
                <lb/>overarching labyrinth of trees.”
             </p>
@@ -153,8 +153,8 @@
                <lb/>they were strong-hearted, brave workers; and, so far
                <lb/>as opportunity was afforded them, they acted well their
                <lb/>parts. What their notions were of true manhood,—a
-               <lb/>strong mind in a strong body, good, brave, and handsome,
-               <lb/>—may be learned from the story of Siegfried.
+               <lb/>strong mind in a strong body, good, brave, and hand
+               <lb rend="hyphenBefore" break="no"/>some,—may be learned from the story of Siegfried.
             </p>
          </div>
       </body>

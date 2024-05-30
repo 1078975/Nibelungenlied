@@ -23,7 +23,7 @@
          <publicationStmt>
             <publisher>Taylor Institution Library, one of the Bodleian Libraries of the
                University of Oxford, </publisher>
-            <date>2024.</date>
+            <date>2024. </date>
             <availability>
                <licence xml:id="xml_files"
                   target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
@@ -51,7 +51,7 @@
             <note type="holding"><p>Transcribed from: <orgName>Bodleian Library</orgName>: (OC) 250 d.150, 64–73.  Images scanned
                by Google Books from: Bodleian Library: (OC) 250 d.150, 117 images.</p></note>
             <note type="intro">
-               <p>This is a facsimile and transcription of <title>Golden Threads from an Ancient Loom.</title>. </p>
+               <p>This is a facsimile and transcription of <title>Golden Threads from an Ancient Loom.</title> </p>
                <p>The transcription was encoded in TEI P5 XML by 1078975. </p>
             </note>
          </notesStmt>
@@ -113,8 +113,8 @@
                   <trailer rend="smallcaps h_24">Massinger.</trailer>
                </lg>
             </epigraph>
-            <p rend="h_2">But at last the Burgundians became weary of the sickening
-               <lb/>conflict, and they sought to have a parley with
+            <p rend="h_2">But at last the Burgundians became weary of the sicken
+               <lb rend="hyphenBefore" break="no"/>ing conflict, and they sought to have a parley with
                <lb/>Etzel, to the intent that they might have his permission to
                <lb/>depart out of his land.</p>
             <p rend="h_2">But the heart of the kind old man had become embittered
@@ -136,8 +136,8 @@
                <lb/>through every corner of the vaulted hall. “Ye shall have peace,
                <lb/>ye shall have leave to depart, but it shall be only upon one
                <lb/>condition. We are children of one mother, therefore get you gone;
-               <lb/>but leave Hagen, the foul murderer, a hostage in my hands.”
-               <lb/>Then the three princes looked darkly one at another, and
+               <lb/>but leave Hagen, the foul murderer, a hostage in my hands.”</p>
+            <p rend="h_2">Then the three princes looked darkly one at another, and
                <lb/>Gernot made answer:—</p>
             <p rend="h_2">“Royal sister, that cannot be. Never shall it be said that
                <lb/>a Burgundian, to purchase his own safety, gave up one of his
@@ -231,10 +231,10 @@
                <lb/>touch him.</p>
             <pb n="69" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Golden_threads/Golden_threads_69.png"/>
             
-            <p rend="h_2">After that the struggle began in right earnest. Like a warhorse
-               <lb/>scenting the battle, Rudiger threw himself wildly into the
-               <lb/>combat; with flashing sword he cut a pathway through the Burgundians,
-               <lb/>and Gernot and he at last closed in mortal conflict.
+            <p rend="h_2">After that the struggle began in right earnest. Like a war
+               <lb rend="hyphenBefore" break="no"/>horse scenting the battle, Rudiger threw himself wildly into the
+               <lb/>combat; with flashing sword he cut a pathway through the Bur
+               <lb rend="hyphenBefore" break="no"/>gundians, and Gernot and he at last closed in mortal conflict.
                <lb/>Conquerors and conquered, each fell by the hand of the other.</p>
             <p rend="h_2">And soon the sad news spread to the Winter Palace, and
                <lb/>Etzel and Criemhild, with the Huns who were with them, heard
@@ -250,8 +250,8 @@
                <lb/>wounded, that Dietrich considered that it was little glory to kill
                <lb/>him then, whereas he would be a rare prize to carry captive to
                <lb/>the queen, so he let his shield fall to the ground, and throwing
-               <lb/>his arms round his weakened opponent, carried him into Criemhild's
-               <lb/>presence, while Gunther, who was also wounded followed
+               <lb/>his arms round his weakened opponent, carried him into Criem
+               <lb break="no" rend="hyphenBefore"/>hild's presence, while Gunther, who was also wounded followed
                <lb/>in sullen despair.</p>
             <p rend="h_2">With feverish joy Criemhild greeted Dietrich as she beheld
                <lb/>him bringing her foe captive to her feet, telling him that now
@@ -263,7 +263,7 @@
                <lb/>as may atone for all the grief he has caused you.”</p>
             <p rend="h_2">Then Criemhild had Hagen carried to a dungeon, where he
                <lb/>was guarded with bolts and bars, and then she turned to Gunther.
-               <lb/>Alas I that a thirst for revenge should have warped Criemhild's
+               <lb/>Alas! that a thirst for revenge should have warped Criemhild's
                <lb/>once tender heart. She forgot that Gunther and she were children
                <lb/>of one mother,—forgot everything but that he had been the friend
                <lb/>and ally of her foe Hagen.</p>
@@ -294,10 +294,10 @@
                <lb/>he and Gunther should be conveyed back in safety to their
                <lb/>own land.</p>
             <p rend="h_2">But the reply of the sullen Hagen was only this:—</p>
-            <p rend="h_2">“You do but waste your words upon me, O queen I I
+            <p rend="h_2">“You do but waste your words upon me, O queen! I
                <lb/>have sworn that so long as one of your brothers, my royal
                <lb/>lieges, remains upon earth, so long shall the hoard never be
-               <lb/>given up.</p>
+               <lb/>given up.”</p>
             <p rend="h_2">And the queen answered:—</p>
             <p rend="h_2">“So let it be;” and went straightway from Hagen's presence,
                <lb/>and caused her servants to go at once to Gunther's prison
@@ -317,7 +317,8 @@
             
             <p rend="h_2">And the queen cried out in
                <lb/>answer:—</p>
-            <p rend="h_2">“Base deceiver, yet shalt thou not strip me of all. The
+            <p rend="h_2">“Base deceiver, yet shalt
+               <lb/>thou not strip me of all. The
                <lb/>sword that my Siegfried wore,
                <lb/>when he left me for the fatal
                <lb/>hunt, I will have whether thou
@@ -338,7 +339,7 @@
                <lb/>woman's hand.</p>
             <p rend="h_2">And Hildebrand, one of the servants of Dietrich, cried out:—</p>
             <p rend="h_2">“Now, though I die for it, I will avenge the Trongian
-            Hagen.”</p>
+               <lb/>Hagen.”</p>
             <p rend="h_2">And forthwith he sprang towards Criemhild, and with his
                <lb/>dagger struck her to the heart.</p>
             <p rend="h_2">And so ends the story; kings and warriors, and fair queen,

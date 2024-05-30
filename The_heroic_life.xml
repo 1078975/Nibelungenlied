@@ -51,7 +51,7 @@
             <note type="holding"><p>Transcribed from: <orgName>Taylor Institution Library</orgName>: FIEDLER.G.550, 106–118.  Images scanned
                by Google Books from: Taylor Institution Library: FIEDLER.G.550, 153 images.</p></note>
             <note type="intro">
-               <p>This is a facsimile and transcription of <title>The Heroic Life and Exploits of Siegfried the Dragon Slayer.</title>. </p>
+               <p>This is a facsimile and transcription of <title>The Heroic Life and Exploits of Siegfried the Dragon Slayer.</title> </p>
                <p>The transcription was encoded in TEI P5 XML by 1078975. </p>
             </note>
          </notesStmt>
@@ -149,8 +149,8 @@
                <lb/>ſtone, for as yet he had not ſeen the hero. But juſt as he was
                <lb/>about to lie down he perceived Siegfried, and ſending forth
                <lb/>furiouſly blue flames, he laſhed the earth with his tail. In a
-               <lb/>moment the hero's ſhield was covered with blue flame, and became
-               <lb/>glowing hot; his dogs were about to fly at the monſter,
+               <lb/>moment the hero's ſhield was covered with blue flame, and be
+               <lb break="no" rend="hyphenBefore"/>came glowing hot; his dogs were about to fly at the monſter,
                <lb/>but they fell dead to the earth at his firſt breath. The poiſonous
                <lb/>flames darted more and more fearfully on Siegfried; and to cool
                <lb/>himſelf he was forced to withdraw into the vaulted gallery of
@@ -221,14 +221,14 @@
                <lb/>when he ſaw that Siegfried had ſlain the Dragon. He imme
                <lb break="no" rend="hyphenBefore"/>diately went to the virgin, took a root from his girdle, and with
                <lb/>its ſcent awoke her to new life. The joy of Siegfried was only
-               <lb/>equalled by that of the beautiful daughter of the Rhine King ;
+               <lb/>equalled by that of the beautiful daughter of the Rhine King;
                <lb/>and Euglein too was ſo delighted at their deliverance from the
                <lb/>Dragon, that he begged the hero to claim from him what
                <lb break="no" rend="hyphenBefore"/>ever he liked, gold or diamonds, coſtly ornaments or weapons,
                <lb/>for all were at his command. Siegfried thanked him for his
                <lb/>offer, but ſaid that his deliverance of the maiden was reward
                <lb/>enough for him; if however he deſired to do him a favour,
-               <lb/>he would aik him, who was ſo well informed of the future, to
+               <lb/>he would aſk him, who was ſo well informed of the future, to
                <lb/>tell him his deſtiny. The Dwarf immediately placed his
                <lb/>bright gleaming ſhield on a table of ſtone, and held a handful
                <lb/>of dry graſs to the ſun, which forthwith burſt into a flame:
@@ -279,7 +279,7 @@
                <l rend="h_8">“Ladies look on ſcenes ſo fair,</l>
                <l rend="h_8">Brave knights look on ladies there;</l>
                <l rend="h_8">One his proud compeers outvies,</l>
-               <l rend="h_8">Like the fun in yonder flies;</l>
+               <l rend="h_8">Like the ſun in yonder ſkies;</l>
                <l rend="h_8">Like the moon in modeſt pride,</l>
                <l rend="h_8">One ſweet maiden is his bride;</l>
                <l rend="h_8">For to her that hero-youth</l>
@@ -300,7 +300,7 @@
                <l rend="h_8">For a thorn is lurking there;</l>
                <l rend="h_8">See, it wounds thy finger fair.</l>
                <l rend="h_8">Bride, why ſtops thy ſobbing breath?</l>
-               <l rend="h_8">Bride, why art thou pale as death”</l>
+               <l rend="h_8">Bride, why art thou pale as death?”</l>
             </lg>
             <p rend="h_2">The Dwarf was ſilent for awhile, and then turning towards
                <lb/>the weſt began to ſing thus of Siegfried's death:</p>
@@ -389,7 +389,7 @@
                <lg>
                   <l rend="h_8">“Sword and ſhield in ſtrife are meeting,</l>
                   <l rend="h_10">Steel and iron ſternly ſtrive,</l>
-                  <l rend="h_8">And of gueſts that late were greeting.,</l>
+                  <l rend="h_8">And of gueſts that late were greeting,</l>
                   <l rend="h_10">Few ſhall quit the ſpot alive.</l>
                </lg>
                <lg>
@@ -470,11 +470,11 @@
                <lb/>days, the city cauſed the figures of Siegfried and the ancient
                <lb/>race of kings to be painted in different places, at the council-
                <lb/>houſe, at the Mainz-gate, at the new tower, and at the mint,
-               <lb/>where the bones of the Dragon hung in chains of iron. Siegfried's
-               <lb/>ſpear was preſerved, and the Roſe-garden is ſtill ſhown;
+               <lb/>where the bones of the Dragon hung in chains of iron. Sieg
+               <lb break="no" rend="hyphenBefore"/>fried's ſpear was preſerved, and the Roſe-garden is ſtill ſhown;
                <pb n="118" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Heroic_life/Heroic_life_118.png"/>
                <lb/>and when, in 1488, the Emperor Frederick the Third was at
-               <lb/>Worms, he ordered the bones of the hero to be fought for in
+               <lb/>Worms, he ordered the bones of the hero to be ſought for in
                <lb/>the churchyard, but nothing was diſcovered. Certain it is
                <lb/>however, that up to the preſent day the armorial bearing of
                <lb/>Worms is the Giant's key which locked up the ſtone, and the

@@ -23,7 +23,7 @@
          <publicationStmt>
             <publisher>Taylor Institution Library, one of the Bodleian Libraries of the
                University of Oxford, </publisher>
-            <date>2024.</date>
+            <date>2024. </date>
             <availability>
                <licence xml:id="xml_files"
                   target="https://creativecommons.org/licenses/by-sa/4.0/"> XML files are
@@ -51,7 +51,7 @@
             <note type="holding"><p>Transcribed from: <orgName>Cornell University Olin Library</orgName>: PT1579.A3 A73, 64–73.  Images scanned
                for Internet Archive from: Cornell University Olin Library: PT1579.A3 A73, 117 images.</p></note>
             <note type="intro">
-               <p>This is a facsimile and transcription of <title>The Fall of the Nibelungs.</title>.</p>
+               <p>This is a facsimile and transcription of <title>The Fall of the Nibelungs.</title></p>
                <p>The transcription was encoded in TEI P5 XML by 1078975. </p>
             </note>
          </notesStmt>
@@ -136,11 +136,11 @@
                <lb/>me is Rudeger's death! There was never such woe in this
                <lb/>world. Ye have done evilly by me and by yourselves. All the
                <lb/>joy I had ye have slain. How shall I ever mourn enough for all
-               <lb/>my kinsmen ?</p>
+               <lb/>my kinsmen?”</p>
             <p rend="h_2">“We are not alone to blame,” answered Hagen. “Your
                <lb/>knights came hither armed and ready, with a great host. Me
                <lb break="no" rend="hyphenBefore"/>thinketh the tale hath not been told thee aright.”</p>
-            <p rend="h_2">“What shall I believe then ? Hildebrand said that when my
+            <p rend="h_2">“What shall I believe then? Hildebrand said that when my
                <lb/>knights of Amelung begged you to give them Rudeger's body,
                <lb/>ye answered mockingly, as they stood below.”</p>
             <p rend="h_2">Then said the prince of Rhineland, “They told me they were
@@ -156,7 +156,7 @@
                <lb/>armed as we are for battle, should yield them to thee! I would
                <lb/>hold it a great shame, and ill done.”</p>
             <p rend="h_2">“Deny me not,” said Dietrich. “Ye have made me heavy-
-               <lb/>hearted enow, O Gunther and Hagen ; and it is no more than
+               <lb/>hearted enow, O Gunther and Hagen; and it is no more than
                <lb/>just, that ye make it good. I swear to you, and give you my
                <lb/>hand thereon, that I will ride back with you to your own
                <lb/>country. I will bring you safely thither, or die with you, and
@@ -247,9 +247,10 @@
                <lb/>went forth weeping. Yet soon Etzel's wife took grim vengeance,
                <lb/>by reason whereof both the valiant men perished. She kept them
                <lb/>in dungeons, apart, that neither saw the other again till she bore
-               <lb/>her brother's head to Hagen. Certes, Kriemhild's vengeance was bitter.</p>
-            <p rend="h_2">The queen went to Hagen, and spake angrily to the knight.</p>
-            <p rend="h_2">“Give me back what thou hast taken from me, and ye may both
+               <lb/>her brother's head to Hagen. Certes, Kriemhild's vengeance
+               <lb/>was bitter.</p>
+            <p rend="h_2">The queen went to Hagen, and spake angrily to the knight.
+               <lb/>“Give me back what thou hast taken from me, and ye may both
                <lb/>win back alive to Burgundy.”</p>
             <p rend="h_2">But grim Hagen answered, “Thy words are wasted, noble
                <lb/>queen. I have sworn to show the hoard to none. While one

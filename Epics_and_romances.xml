@@ -51,7 +51,7 @@
             <note type="holding"><p>Transcribed from: <orgName>Bodleian Library</orgName>: (OC) 251 a.89, 279–299.  Images scanned
                by Google Books from: Bodleian Library: (OC) 251 a.89, 499 images.</p></note>
             <note type="intro">
-               <p>This is a facsimile and transcription of <title>Epics and Romances of the Middle Ages.</title>. </p>
+               <p>This is a facsimile and transcription of <title>Epics and Romances of the Middle Ages.</title> </p>
                <p>The transcription was encoded in TEI P5 XML by 1078975. </p>
             </note>
          </notesStmt>
@@ -116,12 +116,19 @@
                   <lb/>begged her husband to invite her brothers and their friends to
                   <lb/>come on a visit to the land of the Huns. It was the first request
                   <lb/>that she had ever made, and so King Etzel was overjoyed to hear
-                  <lb/>it. He despatched the minstrels Swemmeling and Worbeling,
+                  <lb/>it. He despatched the minstrels Swemmeling and Wörbeling,
                   <lb/>with four and twenty noble warriors, to invite the Burgundian
                   <lb/>kings to the Midsummer festival. And Chriemhild sent a special
                   <lb/>message to her mother, begging her to come too. In spite of
-                  <lb/>Hagen's remonstrances, the three kings accepted Etzel's invitation.
-                  <lb/>Hagen prepared for the journey as though they were setting out.</p>
+                  <lb/>Hagen's remonstrances, the three kings accepted Etzel's invitation.</p>
+               <p rend="h_2">Hagen prepared for the journey as though they were setting out
+                  <lb/>on a campaign, and not to a feast. The Lady Ute would have
+                  <lb/>liked to go, but her age and infirmities hindered her taking so long
+                  <lb/>a journey. Brunhild also remained at home, for she had no desire
+                  <lb/>to see her enemy's good fortune; besides, she had long given
+                  <lb/>up caring for festivals; she only cared to spend her time near
+                  <lb/>Siegfried's grave-mound. 
+               </p>
                <p rend="h_2">“The Nibelungs are going to visit the Huns,” said the common
                   <lb/>people, as they watched King Etzel's visitors crossing the Rhine;
                   <lb/>for, ever since the treasure had come into the country, the kings
@@ -244,9 +251,9 @@
                   <lb/>laid across his knees—Chriemhild came down the steps, and
                   <lb/>asked him why he had hated her so, and why he had slain the
                   <lb/>noble Siegfried.</p>
-               <p rend="h_2">“Well,” he said, “I never denied that I did it The queen
+               <p rend="h_2">“Well,” he said, “I never denied that I did it. The queen
                   <lb/>of Burgundy was insulted for his sake, and the royal house
-                  <lb/>dishonoured. The shame had to be washed out with . blood, and
+                  <lb/>dishonoured. The shame had to be washed out with blood, and
                   <lb/>as the hero was too strong to attack in the open field, he had
                   <lb/>to be slain by cunning. Any one may blame me, any one may
                   <lb/>strive to avenge the deed, I am not afraid. I have no cap of
@@ -296,7 +303,7 @@
                   <lb/>marched to the sanctuary to keep the solemn Midsummer festival.
                   <lb/>King Etzel appeared with his train, and asked, in astonishment,
                   <lb/>why they wore their armour. But they answered that such was
-                  <lb/>their custom, not thinking it well to tell him what hid happened
+                  <lb/>their custom, not thinking it well to tell him what had happened
                   <lb/>during the night</p>
                <pb n="285" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_285.png"/>
                
@@ -321,12 +328,12 @@
                <p rend="h_2">That evening, Etzel sent for his little son into the hall, that he
                   <lb/>might present him to his guests. The warriors all admired the
                   <lb/>handsome, frank-mannered child, and told the father that they
-                  <lb/>did so but Hagen said he did not think the boy would live to
+                  <lb/>did so; but Hagen said he did not think the boy would live to
                   <lb/>grow up, he looked so delicate.</p>
                <p rend="h_2">This speech of Hagen's increased the bad feeling of the Huns
                   <lb/>towards the Burgundians tenfold; but no one betrayed his
                   <lb/>thoughts. A little later, a great noise was heard in the court
-                  <lb/>without-shouts, the clang of armour, howls and cries.</p>
+                  <lb/>without—shouts, the clang of armour, howls and cries.</p>
             </div>
             <div type="section">
                <head rend="smallcaps center">The First Blood. Blödelin and Dankwart</head>
@@ -335,7 +342,7 @@
                   <lb/>promised him Etzel's help in regaining his kingdom, if he would
                   <pb n="286" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_286.png"/>
                
-                  <lb/>do her one service-if he would avenge Siegfried's death. But
+                  <lb/>do her one service—if he would avenge Siegfried's death. But
                   <lb/>he told her that he could not, for the Burgundian warriors were
                   <lb/>old friends and comrades of his; besides, he reminded her, that
                   <lb/>they had come to Etzelburg in all good faith and loyalty.
@@ -367,10 +374,10 @@
                   <lb/>arms to her; but when she started forward to meet him, there was
                   <lb/>nothing but empty air. She determined now to go on to the bitter
                   <lb/>end. Whether her vengeance brought about the death of her
-                  <lb/>little son, and of King Etzel; whether it brought about the de­
+                  <lb/>little son, and of King Etzel; whether it brought about the de
                   <pb n="287" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_287.png"/>
                   
-                  <lb/>struction of the kingdom, she did not care. She could die, and
+                  <lb rend="hyphenBefore" break="no"/>struction of the kingdom, she did not care. She could die, and
                   <lb/>die willingly, if only she had the murderer's life.
                </p>
                <p rend="h_2">Meantime, Blödelin was making his preparations. His men
@@ -393,14 +400,14 @@
                   <lb/>made his way fighting to the hall, his armour bespattered with
                   <lb/>blood; but the defenceless serving-men were slain to a man.</p>
                <p rend="h_2">“Up, brother Hagen!” he cried, “save me from the faithless
-                  <lb/>Huns. Lord Blodelin attacked both me and the servants, in order
+                  <lb/>Huns. Lord Blödelin attacked both me and the servants, in order
                   <lb/>to avenge Siegfried's death. I slew him, but the servants are all
                   <lb/>dead, and I alone am escaped out of the traitorous toils that the
                   <lb/>Huns have laid for us.”</p>
             </div>
             <div type="section">
                <head rend="smallcaps center">The Slaughter.</head>
-               <p rend="h_2">The fight recommenced in the banqueting hall, m spite of all
+               <p rend="h_2">The fight recommenced in the banqueting hall, in spite of all
                   <lb/>King Gunther's efforts to smooth matters over, and during the
                   <lb/>struggle the little Prince Ortlieb, the sole hope of Etzel's house,
                   <pb n="288" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_288.png"/>
@@ -421,7 +428,7 @@
                <p rend="h_2">“What is the good of so much requesting?” cried hot-headed
                   <lb/>Wolfhart; “we have sharp keys to unlock the doors with, even if a
                   <lb/>thousand such as these Nibelungs tried to keep them shut.”</p>
-               <p rend="h_2">“Hush l hush ! foolish comrade,” said Dietrich; “there was but
+               <p rend="h_2">“Hush! hush! foolish comrade,” said Dietrich; “there was but
                   <lb/>little sense in that speech of yours.”</p>
                <p rend="h_2">King Gunther then commanded his people to open the door,
                   <lb/>and much to the wrath of the Burgundians, Dietrich passed
@@ -433,14 +440,14 @@
                   <lb/>think of her even in death.”</p>
                <p rend="h_2">Many of the Huns tried to escape with King Etzel, but Volker
                   <lb/>cut them down as they strove to pass the door.</p>
-               <p rend="h_2">No sooner were Dietrich and Rildiger safely gone than the hor
+               <p rend="h_2">No sooner were Dietrich and Rüdiger safely gone than the hor
                <lb break="no" rend="hyphenBefore"/>rible carnage recommenced. The Burgundian swords had no rest,
                   <lb/>until all the Huns were lying dead or dying on the floor. After
                   <lb/>that the Nibelungs rested awhile from their labours, but Hagen
                   <pb n="289" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_289.png"/>
                
                   <lb/>speedily called them to be up and doing, and fling the corpses out,
-                  <lb/>lest they should be in the way in any renewed attack He was at
+                  <lb/>lest they should be in the way in any renewed attack. He was at
                   <lb/>once obeyed. The dead and wounded Huns were one and all
                   <lb/>flung into the court below.
                </p>
@@ -453,17 +460,17 @@
                   <lb/>would try and do her will. And he was Count Iring of Daneland,
                   <lb/>Haward's man.</p>
                <p rend="h_2">He went forward boldly and performed prodigies of valour, but
-                  <lb/>at length was beaten back, and fell dead under Chriemhqd's
+                  <lb/>at length was beaten back, and fell dead under Chriemhild's
                   <lb/>window.</p>
                <p rend="h_2">Haward and Irnfried of Düiringen (Thuringia) determined to
                   <lb/>avenge bold Iring, so they called out their men and went to the
                   <lb/>attack. The fight began at the door, where Irnfried fell under the
                   <lb/>minstrel's sword, and immediately afterwards Haward was slain
                   <lb/>by the hero of Tronje. But still the men of Daneland and
-                  <lb/>Dilringen fought on unheeding, and Hagen exclaimed,—</p>
+                  <lb/>Düringen fought on unheeding, and Hagen exclaimed,—</p>
                <p rend="h_2">“Give place. Let them go through the door, out of which they
-                  <lb/>shall never come back alive. Volker shall play them a slumbersong
-                  <lb/>to which our swords can beat. the accompaniment.”</p>
+                  <lb/>shall never come back alive. Volker shall play them a slumber
+                  <lb break="no" rend="hyphenBefore"/>song to which our swords can beat the accompaniment.”</p>
                <p rend="h_2">So the Nibelungs opened their ranks, and the men of Daneland
                   <lb/>and Düringen entered the blood-stained hall. Once more the
                   <lb/>battle began. Many a brave Burgundian fell to rise no more; but
@@ -522,7 +529,7 @@
                   <lb/>still alive and armed for a new fight. While she pondered
                   <lb/>what it were best to do, one of the Hunnish notables told her
                   <lb/>that she should apply for help, either to the Margrave of
-                  <lb/>Rechelaren, who had received so many benefits from the king,
+                  <lb/>Bechelaren, who had received so many benefits from the king,
                   <lb/>or to Dietrich of Bern, who had enjoyed Etzel's hospitality so
                   <lb/>long as a fugitive. Chriemhild thought the advice good, and
                   <lb/>at once sent off a message to Rüdiger.</p>
@@ -610,10 +617,10 @@
                <p rend="h_2">One of Dietrich's men heard what had happened. He
                   <lb/>hastened to his master and told him the strange tale. Dietrich
                   <lb/>refused to believe it, and sent Helfrich to the palace to find
-                  <lb/>out the truth. On hearing the news of Rüdiger's death con­
+                  <lb/>out the truth. On hearing the news of Rüdiger's death con
                   <pb n="294" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_294.png"/>
                
-                  <lb/>firmed, the hero of Bern sent his old master Hildebrand to ask
+                  <lb rend="hyphenBefore" break="no"/>firmed, the hero of Bern sent his old master Hildebrand to ask
                   <lb/>the Nibelungs why they had done this evil deed.</p>
                <p rend="h_2">The master would have gone unarmed upon this errand, but
                   <lb/>Wolfhart cried out upon the folly of appearing as a lamb in the
@@ -647,7 +654,7 @@
                   <lb/>place when the battle began. The tired Nibelungs, and the brave
                   <pb n="295" facs="https://raw.githubusercontent.com/1078975/Nibelungenlied/main/Epics_and_romances/Epics_and_romances_295.png"/>
                
-                  <lb/>Amelungs—men who had formerly fought side by side m the
+                  <lb/>Amelungs—men who had formerly fought side by side in the
                   <lb/>great battle of Ravenna, and on many other fields—were now
                   <lb/>engaged in hand-to-hand conflict for life and death. Here was
                   <lb/>strong Sigestap, duke of Bern, there brave Helfrich, there the
@@ -669,7 +676,7 @@
                   <lb/>eyes once more, and said in a faint voice,—</p>
                <p rend="h_2">“Uncle, tell our friends not to weep for me, for I have met my
                   <lb/>death at the hands of a brave king, as he has at mine. My
-                  <lb/>wild blood has grown_ calm and still, and I am ready to sleep
+                  <lb/>wild blood has grown calm and still, and I am ready to sleep
                   <lb/>peacefully like a tired child.”</p>
                <p rend="h_2">These were the last words of the wildest, hottest warrior in
                   <lb/>Dietrich's train. Like Wolfhart, all the other comrades of the
